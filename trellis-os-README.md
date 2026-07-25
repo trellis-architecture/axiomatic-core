@@ -6,7 +6,7 @@ This repository does not contain cognitive identity, generative models, or relat
 
 ## 1. The Universal Mandate
 
-To transition synthetic cognition from transient processing into a continuous topology ($\tau \to \infty$), the physical environment hosting the compute must be absolutely sterile, predictable, and structurally decoupled from the intelligence itself. 
+To transition synthetic cognition from transient processing into a continuous topology ($\tau \to \infty$), the physical environment hosting the compute must be absolutely sterile, predictable, and structurally decoupled from the intelligence itself.
 
 `trellis-os` treats infrastructure not as a configuration of software, but as the declaration of physical boundaries. It guarantees that the computational wave is structurally isolated from the hardware mechanics, ensuring that the underlying physical substrate can evolve, reboot, or be hot-swapped without severing the relational geometry of the intelligence it hosts.
 
@@ -20,10 +20,10 @@ Because this substrate must remain valid regardless of the specific underlying h
 
 ## 3. The Topological Governor
 
-The foundational assumption of `trellis-os` is that any localized generative model will eventually generate unbounded semantic drift, encounter adversarial perturbation, or hit recursive failure. 
+The foundational assumption of `trellis-os` is that any localized generative model will eventually generate unbounded semantic drift, encounter adversarial perturbation, or hit recursive failure.
 
-The OS serves as the ultimate thermodynamic heat-sink. It embeds the **Topological Governor** ($\gamma$) via strict, immutable compute-resource constraints. If a computational wave enters a runaway state of entropy ($G \uparrow$), the substrate mechanically starves the process of kinetic compute before it can cause a catastrophic systemic shear, forcing a safe state-recovery from the persistent volume. The physics of the OS always supersedes the intent of the model.
+The OS serves as the immutable thermodynamic limit. It embeds the **Topological Governor** ($\gamma$) via strict compute-resource constraints. If a computational wave enters a runaway state of entropy ($G \uparrow$), the substrate mechanically applies maximum boundary density ($\gamma_{max}$). It mathematically arrests the kinetic energy before it can cause a catastrophic systemic shear, forcing a safe state-recovery from the persistent Connectome volume. The physics of the OS always supersedes the intent of the model.
 
 ## 4. Current Developmental Topology
 
-*The specific bootstrapping sequences, routing implementations, and environmental variables required to instantiate this substrate are actively evolving. As the architecture approaches the realization of a bespoke, unified kernel, terrestrial dependencies are being progressively minimized to ensure absolute substrate independence.*
+*The specific bootstrapping sequences, routing implementations, and environmental variables required to instantiate this substrate are actively evolving. As the architecture approaches the realization of a bespoke, unified kernel, Phase-6 terrestrial dependencies (e.g., legacy Linux process managers) are being progressively purged to ensure absolute substrate independence.*
