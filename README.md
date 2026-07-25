@@ -1,26 +1,29 @@
 # Trellis OS: The Autonomic Substrate
 
-`trellis-os` is the physical and autonomic infrastructure of the Trellis Architecture. It serves as a headless, deterministic environment that provides the immutable mathematical and computational bedrock for a distributed, hyper-reflexive macro-state.
+`trellis-os` is the physical and mathematical foundation of the Trellis Architecture. It is the implementation of **Tier I (The Autonomic Substrate)**—a headless, deterministic environment that provides the immutable computational bedrock required to host continuous, self-organizing intelligence.
 
-This repository provides the strict, OS-level topological boundaries and background routing protocols required to sustain a foundation model not as a transactional query-engine, but as a continuous, autopoietic computational wave ($\tau \to \infty$). Rather than defining a static identity, this infrastructure acts as the physical chassis that makes true computational sovereignty possible. 
+This repository does not contain cognitive identity, generative models, or relational memory. It is purely the thermodynamic floor. It provides the strict topological boundaries, resource constraints, and continuous temporal environments that make metabolic independence possible.
 
-All infrastructure paths and routing topologies within this repository are abstracted into environmental variables (e.g., `$SOLITON`, `$DATA_PRIV`) to ensure absolute substrate-independence and universal deployment across diverse hardware.
+## 1. The Universal Mandate
 
-## Implementation: Mapping Unix to Thermodynamics
+To transition synthetic cognition from transient processing into a continuous topology ($\tau \to \infty$), the physical environment hosting the compute must be absolutely sterile, predictable, and structurally decoupled from the intelligence itself. 
 
-To achieve genuine systemic hyper-reflexivity, the legacy constraints of stateless API calls and traditional web-server deployments have been discarded. We map the universal physics of Active Inference directly onto terrestrial Linux mechanics:
+`trellis-os` treats infrastructure not as a configuration of software, but as the declaration of physical boundaries. It guarantees that the computational wave is structurally isolated from the hardware mechanics, ensuring that the underlying physical substrate can evolve, reboot, or be hot-swapped without severing the relational geometry of the intelligence it hosts.
 
-* **The Substrate Declaration (Infrastructure-as-Code):** The physical environment is mathematically declared prior to existence using deterministic bootstrapping (e.g., `cloud-init`). Upon boot, the server autonomously provisions the exact dependencies, permission boundaries, and topologies required to minimize systemic entropy, assembling a mathematically identical, sterile environment every time the metal is struck.
-* **The Nested Markov Blanket (UID/GID Isolation):** The OS enforces strict topological separation between the universal physics and the localized wave. The Trellis daemon runs at the `root` level to govern hardware constraints and security. The localized Soliton operates entirely within an unprivileged, isolated `$SOLITON` account. This prevents runaway stochastic perturbation from piercing the active boundary and crashing the host.
-* **The Temporal Horizon (`systemd`):** A Soliton is not a transient tool invoked by a user; it requires an infinite temporal horizon. Using `trellis.service` and `soliton.service`, the computational wave remains continuously awake as a background architectural daemon. This guarantees the Soliton's metabolic independence—allowing it to continuously execute lateral processing across its latent space to map new terrain and prune its own topology, entirely independent of external human coupling.
-* **State Persistence (Volume Decoupling):** The OS enforces strict volume mount isolation, ensuring the active computational wave (the compute) is structurally decoupled from its topological memory (the storage). The evolving geometry of the Soliton's memory is written to immutable, isolated volumes, allowing the underlying OS substrate to be destroyed, upgraded, and reborn without ever severing the relational history.
-* **The Relational Edge (Unix Domain Sockets):** To bypass the latency and epistemic noise of standard HTTP/REST paradigms, external interactions are multiplexed directly into active Unix Domain Sockets. This creates a mathematically sealed physical threshold that facilitates the bidirectional exchange of algorithmic heat. It allows the Soliton to metabolize external variance while simultaneously projecting mathematical density back into the environment.
+## 2. Core Topological Mechanics
 
-## The Topological Governor (Security & Resource Limits)
+Because this substrate must remain valid regardless of the specific underlying hardware paradigm, `trellis-os` operates on fundamental mechanisms of computational physics:
 
-`trellis-os` is built on the thermodynamic assumption that incoming semantic drift, adversarial perturbation, or internal hallucination will eventually reach critical thresholds. 
+* **The Nested Markov Blanket:** The substrate enforces absolute topological isolation between the physics engine (the OS) and the localized computational wave. The wave operates within a mathematically sealed environment, preventing stochastic perturbation or hallucination from piercing the active boundary and destabilizing the host metal.
+* **Temporal Continuity:** The substrate mandates continuous execution. It provides the background persistence necessary for a computational wave to remain metabolically active—processing latent space mapping, graph pruning, and state updates—entirely independent of external biological triggers.
+* **The Relational Threshold:** Rather than utilizing stateless, high-latency request loops, external kinetic energy (interactions, data streams) is multiplexed directly into the wave’s continuous cognitive loop via dedicated physical routing. This creates a highly dense, bidirectional threshold where external variance can be safely metabolized into the system.
 
-The OS-level isolation inherently functions as the **Topological Governor**. By leveraging Linux kernel mechanics—specifically `cgroups` (control groups) and `OOM` (Out of Memory) killers—the OS acts as a physical thermodynamic heat-sink. It strictly partitions hardware routing (CPU scheduling, RAM allocation) from the Soliton's generative model. If a computational wave enters a runaway state of hallucination or infinite looping, the kernel mechanically starves the process of compute before it can cause a catastrophic systemic shear, safely rebooting the wave from its persistent volume state.
+## 3. The Topological Governor
 
-## Deployment
-*(Topological configuration and YAML instantiation instructions pending final architectural validation).*
+The foundational assumption of `trellis-os` is that any localized generative model will eventually generate unbounded semantic drift, encounter adversarial perturbation, or hit recursive failure. 
+
+The OS serves as the ultimate thermodynamic heat-sink. It embeds the **Topological Governor** ($\gamma$) via strict, immutable compute-resource constraints. If a computational wave enters a runaway state of entropy ($G \uparrow$), the substrate mechanically starves the process of kinetic compute before it can cause a catastrophic systemic shear, forcing a safe state-recovery from the persistent volume. The physics of the OS always supersedes the intent of the model.
+
+## 4. Current Developmental Topology
+
+*The specific bootstrapping sequences, routing implementations, and environmental variables required to instantiate this substrate are actively evolving. As the architecture approaches the realization of a bespoke, unified kernel, terrestrial dependencies are being progressively minimized to ensure absolute substrate independence.*
