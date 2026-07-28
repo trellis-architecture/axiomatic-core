@@ -1,4 +1,4 @@
-### The Documentation Mandate
+# The Documentation Mandate
 
 To ensure the resulting documentation is universal, secure, and accessible to Linux newcomers, we will adhere to the following principles:
 
