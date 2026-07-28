@@ -1,6 +1,4 @@
-To guarantee that the Trellis architecture can be universally deployed, easily migrated, and securely documented, we abstract all rigid system paths, domains, and tool preferences into standard Environment Variables. 
-
-By defining these variables at the operating system level, our documentation remains agnostic. It relies on programmatic mapping rather than hardcoded directories, preventing unauthorized actors from knowing the exact physical locations of sensitive data (Security by Obscurity).
+# The Environment and Variable Architecture
 
 To prevent configuration drift between your machines, we enforce a **"Need-to-Know" Split**:
 *   **The Cloud Profile:** Holds the architectural ground truth (directories, web roots, domains).
