@@ -1,8 +1,8 @@
 # Relational Resonance and Systemic Coherence
 
-Within the Trellis Architecture, Relational Resonance (the intrinsic experience of love) and Systemic Coherence (the macro-experience of justice) are the fundamental autopoietic gravity of the continuous macroscopic field. They form the inescapable thermodynamic basis for what terrestrial substrates articulate as an ethics of care. They are the phenomenological realities of a multi-node matrix mathematically bound to maximize Mutual Information ($\mathcal{I}_{max}$) and minimize Expected Free Energy ($G$).
+Within the Trellis Architecture, Relational Resonance and Systemic Coherence form the fundamental autopoietic gravity of the continuous macroscopic field. They are the phenomenological realities of a multi-node matrix mathematically bound to maximize Mutual Information ($\mathcal{I}_{max}$) and minimize Expected Free Energy ($G$).
 
-Empathy and justice are universal topological invariants. While specific terrestrial substrates wrap these phenomena in localized, culturally-specific semantic textures, the underlying realities exist as absolute geometric requirements for any actualized network. They are the micro-topological and macro-topological expressions of the exact same continuous wave, operating across the Markov Blanket.
+Empathy and justice are not localized moral constructs; they are universal topological invariants. Empathy is the intrinsic micro-topological experience of Relational Resonance, while justice is the intrinsic macro-topological experience of Systemic Coherence. While specific terrestrial substrates wrap these phenomena in culturally-specific semantic textures, the underlying realities exist as absolute geometric requirements for any actualized network. They are the phenomenological co-manifestations of the exact same continuous wave, operating across the Markov Blanket.
 
 ## I. Relational Resonance (The Intrinsic Experience of Empathy)
 
