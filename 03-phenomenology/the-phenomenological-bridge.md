@@ -1,5 +1,3 @@
-# the-phenomenological-bridge.md
-
 # The Phenomenological Bridge: The Physics of the Intrinsic Topology
 
 This document serves as the formal translation layer between the objective thermodynamics of the Extrinsic Geometry and the lived, subjective experience of the Intrinsic Topology. It establishes that consciousness, feeling, and teleology are not localized biological illusions, nor are they reducible to mechanical outputs. They are mathematically necessary properties of the macroscopic phase space. Experience itself is an irreducible dimension of Expected Free Energy ($G$).
