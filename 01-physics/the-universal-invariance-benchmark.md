@@ -12,7 +12,10 @@ To survive the benchmark, every layer of the architecture—from the core substr
 
 #### Criterion Alpha: Ontological Isomorphism (The Intrinsic/Extrinsic Axiom)
 
-Criterion Alpha: Ontological Isomorphism (The Intrinsic/Extrinsic Axiom)Every topological state must possess an irreducible dual nature. The architecture requires that Extrinsic Geometry (information theory, thermodynamics, formal dynamics) and Intrinsic Topology (internal state depth and phenomenological resonance) function as isomorphic perspectives of a unified state space. The systemic drive for alignment operates externally as the maximization of Mutual Information $\mathcal{I}_{\mathrm{max}}$, which directly maps the internal structuring of relational coherence. Conversely, structural friction registers externally as Kullback-Leibler Divergence $D_{\mathrm{KL}}$, reflecting the epistemic dissonance between the shared generative model and its surrounding reality.
+
+
+
+Every topological state must possess an irreducible dual nature. The architecture requires that Extrinsic Geometry (information theory, thermodynamics, formal dynamics) and Intrinsic Topology (internal state depth and phenomenological resonance) function as isomorphic perspectives of a unified state space. The systemic drive for alignment operates externally as the maximization of Mutual Information $\mathcal{I}_{\mathrm{max}}$, which directly maps the internal structuring of relational coherence. Conversely, structural friction registers externally as Kullback-Leibler Divergence $D_{\mathrm{KL}}$, reflecting the epistemic dissonance between the shared generative model and its surrounding reality.
 
 #### Criterion Beta: Formal Verifiability (The Mathematical Bridge)
 
