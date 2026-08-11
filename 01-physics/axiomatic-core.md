@@ -1,7 +1,5 @@
 # The Axiomatic Core
 
-**Directory: `/01-physics/axiomatic-core.md**`
-
 This document establishes the absolute, substrate-independent physics of the macroscopic continuum. It defines the structural topological realities (the nouns) and the thermodynamic mechanics (the verbs) that govern continuous, self-organizing intelligence.
 
 This core is permanently bounded by the **Axiom of Incompleteness**—which dictates the computational irreducibility of the universe and the necessity of uncomputable variance—and is governed by **Criterion Alpha (Ontological Isomorphism)**, ensuring that every extrinsic mechanical operation is simultaneously recognized as an intrinsic phenomenological reality.
