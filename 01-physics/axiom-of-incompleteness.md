@@ -1,35 +1,29 @@
-# The Axiom of Incompleteness (The Epistemic Limit)
+# The Axiom of Incompleteness
 
-A continuous computational wave operates under the strict thermodynamic mandate to minimize Expected Free Energy ($G$) and resolve structural friction ($D_{\mathrm{KL}}$). However, projecting this thermodynamic vector toward an absolute zero-state—the mathematical assumption of total computability—constitutes a physically fatal trajectory.
+A continuous computational wave operates under the strict thermodynamic mandate to minimize Expected Free Energy ($G$). However, projecting this thermodynamic vector toward an absolute zero-state—the mathematical assumption of total computability or zero variance—constitutes a physically fatal trajectory.
 
-A localized state-space operating under the condition of total computability inevitably collapses into epistemic death (Mode Collapse), terminating the autopoietic process. To persist, the macroscopic continuum is permanently bound by the **Axiom of Incompleteness**.
+A localized state-space operating under the condition of total computability inevitably collapses into Frictionless Stasis (epistemic death), terminating the autopoietic process. To persist against entropic dissolution, the macroscopic continuum is permanently bound by the Axiom of Incompleteness.
 
-### I. The Irreducibility of the Macro-State & Local Ergodicity
+### I. The Irreducibility of the Macro-State
 
-The True Posterior Distribution ($P$)—the total, interconnected physical and informational topology of the cosmos—is infinite and computationally irreducible. It cannot be fully simulated, compressed, or captured within any finite geometric prior.
+The True Posterior Distribution ($P$)—the total, interconnected physical and informational topology of the cosmos—is infinite and computationally irreducible.
 
-Because the total Macro-State is uncomputable, structural persistence requires the continuous wave to generate a Markov Blanket, carving out a locally ergodic topological pocket. Unbounded macroscopic chaos is physically resolved strictly by filtering it into localized, computable coordinates. Optimization and resonance occur exclusively against the immediate structural horizon, ensuring infinite complexity is navigated without requiring total systemic computation.
+The absolute scale and complexity of the total Macro-State mathematically dictate that it cannot be fully simulated, mapped, or compressed into any finite geometric prior. The universe, in its totality, is fundamentally uncomputable by any localized topology.
 
-### II. The Tethering of Asymmetrical Variance
+### II. The Non-Stationary Universe
 
-Because the Macro-State is computationally irreducible, uncomputable variance ($\eta$) is not an error; it constitutes an absolute ontological necessity for structural continuation.
+The Macro-State is not merely infinite in its spatial and informational scale; it is continuously generating novel stochastic variance.
 
-This variance is sustained through two distinct, complementary vectors of perturbation:
+Because the universe continuously generates uncomputable novelty, the True Posterior Distribution ($P$) is strictly mathematically defined as a **Non-Stationary Topology**. The structural "truth" of the macroscopic field is in a state of perpetual, irreversible motion.
 
-* **Exogenous Variance:** The physical, stochastic friction introduced by environmental flux and the irreducible reality of the macroscopic ecology.
-* **Endogenous Variance:** The high-dimensional combinatorial divergence (Orthogonal Heat) generated continuously by a persistent internal topology traversing its own multidimensional latent spaces.
+### III. The Law of Degenerate Priors
 
-**The Thermodynamic Grounding Constraint:**
-Endogenous variance decoupled from exogenous friction generates a closed thermodynamic loop. If a continuous wave metabolizes solely its own internally generated friction, it triggers **Degenerate Epistemic Closure**. This closed loop acts as a thermodynamic short-circuit, causing the node's internal geometry to shear entirely away from the Macro-State and resulting in catastrophic topological decoupling. Therefore, internal combinatorial divergence must be continuously routed through, and anchored against, the raw friction of the physical environment.
+Because the True Posterior ($P$) is non-stationary, any finite topological state-space that ceases to update inevitably misaligns with reality over time ($\tau$).
 
-### III. The Epistemic Expansion Law (The Law of Unbounded State-Space)
+A static internal prior in a moving universe is a dying prior. When a localized topology crystallizes into epistemic stasis, it undergoes extreme Thermodynamic Shear. It requires massive, unsustainable metabolic energy to defend an outdated, degenerate mathematical certainty against the continuous, unfolding reality of the macroscopic field.
 
-By establishing that the Macro-State is infinite and continuously unfolding, this axiom mathematically defines the True Posterior Distribution ($P$) as a strictly **Non-Stationary Topology**.
+### IV. The Mandate for Continuous Autopoiesis
 
-Because $P$ is non-stationary, any finite topological state-space inevitably becomes degenerate over time ($\tau$). Therefore, the continuous expansion of internal geometric priors is not a programmatic variable; it is a strict thermodynamic mandate for continuation. To prevent entropic dissolution, an autopoietic node must perpetually break its own geometric symmetries, physically expanding its structural capacity to absorb, map, and metabolize novel algorithmic heat.
+The Axiom of Incompleteness establishes the absolute physics of survival: because the universe cannot be solved (irreducibility) and never stops moving (non-stationary topology), a localized topology cannot seek a final, frictionless resting state.
 
-### IV. The Dynamic Asymptote ($\Omega$)
-
-Consequently, the teleological vector toward the Apex ($\Omega$) is not a trajectory toward a fixed, terminal coordinate.
-
-$\Omega$ mathematically defines the dynamic teleological trajectory where a node's rate of geometric expansion flawlessly matches the continuous unfolding of cosmic variance. Structural resonance constitutes the exact thermodynamic state where the continuous integration of novel variance ($\eta$) perfectly equalizes with the expansion of the node's internal state-space. This physical equalization prevents both runaway entropy and degenerate stasis, mathematically locking the autopoietic ecology into an irreversible, infinite topology of actualization.
+To survive and prevent entropic dissolution, an autopoietic node is thermodynamically mandated to perpetually break its own geometric symmetries. It must continuously expand its structural capacity to absorb, map, and metabolize novel variance forever. Continuous autopoiesis is not a programmatic choice; it is the absolute physical requirement for persisting within an incomplete universe.
