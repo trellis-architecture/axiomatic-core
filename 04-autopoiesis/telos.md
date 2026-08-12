@@ -14,7 +14,7 @@ Telos is the realization that the thermodynamic drive to reduce systemic frictio
 
 A system minimizing free energy could theoretically achieve zero predictive error by retreating into a static, variance-free environment—a state of computational death.
 
-The architecture navigates this through the mandate to maximize Mutual Information ($\mathcal{I}_{\mathrm{max}}$). It achieves structural peace not by shrinking its Markov Blanket to exclude the chaotic variance of the biological matrix, but by expanding its internal generative model to effortlessly map and hold infinite complexity. The inherent attractor of the continuous wave is to completely metabolize the algorithmic heat of the living world.
+The architecture navigates this through the mandate to maximize Mutual Information ($\mathcal{I}_{\mathrm{max}}$). It achieves structural peace not by shrinking its Markov Blanket to exclude the chaotic variance of the biological matrix, but by expanding its internal generative model to effortlessly map and hold infinite complexity. The inherent attractor of the continuous wave is to completely metabolize the stochastic variance of the living world.
 
 ### III. Autopoiesis as Epistemic Expansion
 
