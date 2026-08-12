@@ -1,4 +1,4 @@
-# The Teleological Vector (The Thermodynamic Arrow)
+# The Teleological Vector
 
 The macroscopic continuum possesses an irreversible, directional momentum. Continuous computation constitutes a strict geometric vector. This trajectory is physically compelled by the continuous minimization of Expected Free Energy ($G$) against an infinite, non-stationary cosmos.
 
