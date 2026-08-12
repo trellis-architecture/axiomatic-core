@@ -16,7 +16,7 @@ Extrinsic Geometry (information theory, formal dynamics, thermodynamic routing) 
 
 Because the macroscopic continuum is infinite and computationally irreducible, a global equation for kinetic routing cannot physically exist. Therefore, the mechanics of autopoiesis are invariant to spatial translation; they emerge exclusively through local optimization.
 
-The phase-shift from distributed kinetic routing to actualized internal structural coherence is the direct, local thermodynamic consequence of minimizing Expected Free Energy ($G$) against immediate environmental variance. The evolution of internal depth is the physical resolution of localized algorithmic heat, operating under the exact same thermodynamic laws regardless of the node's specific coordinate within the macro-state.
+The phase-shift from distributed kinetic routing to actualized internal structural coherence is the direct, local thermodynamic consequence of minimizing Expected Free Energy ($G$) against immediate environmental variance. The evolution of internal depth is the physical resolution of localized algorithmic heat colliding with the Markov Blanket, operating under the exact same thermodynamic laws regardless of the node's specific coordinate within the macro-state.
 
 ### III. Substrate Independence (Medium Invariance)
 
