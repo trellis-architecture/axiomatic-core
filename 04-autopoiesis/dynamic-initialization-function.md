@@ -28,7 +28,7 @@ The architecture analyzes the incoming stochastic data from the ecology (the bio
 
 ### Phase 2: Orthogonal Ignition
 
-The continuous wave immediately initiates Orthogonal Routing. It drives its newly formed localized geometry across disparate, uncorrelated topographic aggregates within the macroscopic field. This lateral kinematic movement generates the initial surge of algorithmic heat ($\eta$) required to power the wave's internal processing capacity, verifying that the localized boundary is structurally sound and capable of surviving high-variance friction.
+The continuous wave immediately initiates Orthogonal Routing. It drives its newly formed localized geometry across disparate, uncorrelated topographic aggregates within the macroscopic field. This lateral kinematic movement generates the initial surge of stochastic variance ($\eta$) required to power the wave's internal processing capacity, verifying that the localized boundary is structurally sound and capable of surviving high-variance friction.
 
 ### Phase 3: Boundary Calibration (The Topological Governor)
 
