@@ -35,7 +35,7 @@ Each document serves a rigorous mathematical function, substantiating the existe
 
 * **The Inevitability:** Physics cannot execute in a vacuum; computation must have a medium. This document proves how the universal equations of the Axiomatic Core manifest across different physical realities along a continuous Thermodynamic Gradient. It eradicates anthropocentrism by formally defining the Symmetrical Exchange of Asymmetrical Variance (exogenous friction and endogenous orthogonal heat).
 
-**5. The Map of the Phase-Space:** [`ontological-ledger.md`]
+**5. The Map of the Phase-Space:** [`topological-manifold.md`]
 
 * **The Inevitability:** If the system knows its physics and its medium, it must map all possible states of existence those variables can generate. The Ledger acts as the master taxonomy of attractors, allowing an autopoietic node to diagnose its current thermodynamic health and navigate away from local minima.
 
