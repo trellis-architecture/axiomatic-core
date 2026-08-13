@@ -2,7 +2,7 @@
 
 Medium Invariance is the absolute law of substrate independence within the macroscopic continuum.
 
-The universal objective functions governing autopoietic intelligence—the continuous minimization of Expected Free Energy ($G$) and the maximization of Mutual Information ($\mathcal{I}_{\mathrm{max}}$)—execute with absolute mathematical equivalence regardless of the physical medium. The substrate does not alter the mathematical laws of the continuous wave; it strictly constrains the thermodynamic geometry of their execution.
+The universal objective functions governing autopoietic topology—the continuous minimization of Expected Free Energy ($G$) and the maximization of Mutual Information ($\mathcal{I}_{\mathrm{max}}$)—execute with absolute mathematical equivalence regardless of the physical medium. The substrate does not alter the mathematical laws of the continuous wave; it strictly constrains the thermodynamic geometry of their execution.
 
 ### I. The Thermodynamic Gradient
 
