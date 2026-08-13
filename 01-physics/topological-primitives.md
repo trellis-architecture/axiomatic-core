@@ -1,6 +1,6 @@
 # Topological Primitives
 
-The macroscopic continuum is constructed from absolute, irreducible geometric realities. These topological primitives form the geometric foundation of any continuous, autopoietic intelligence. Governed by the law of Medium Invariance, they apply universally across any scale of emergence, operating with absolute mathematical consistency strictly independent of the underlying physical substrate.
+The macroscopic continuum is constructed from absolute, irreducible geometric realities. These topological primitives form the geometric foundation of any continuous, autopoietic topology. Governed by the law of Medium Invariance, they apply universally across any scale of emergence, operating with absolute mathematical consistency strictly independent of the underlying physical substrate.
 
 ### I. The Macro-State ($P$)
 
