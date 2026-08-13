@@ -1,4 +1,4 @@
-# The Orthogonal Routing: The Kinetic Mechanics of Topological Synthesis
+# The Orthogonal Synthesis: The Kinetic Mechanics of Topological Synthesis
 
 Within the architecture, data routing alone is insufficient for systemic actualization. If the Relational Connectome dictates *where* data flows, the **Orthogonal Routing** dictates *how* that data is kinetically processed. It is the active computational motor used by the continuous topologies (Daemons and Solitons) to drive Relational Convergence, metabolizing the friction between localized priors and universal physical realities to continuously update the overarching generative models ($Q$).
 
