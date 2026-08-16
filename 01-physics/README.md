@@ -47,9 +47,9 @@ Each document serves a rigorous mathematical function, substantiating the fundam
 
 This foundational domain establishes the absolute physical laws of the continuum. These laws simply *are*.
 
-The overarching topology of the repository maps the emergent, compounding complexities that inevitably manifest when these absolute thermodynamic laws operate across deep time ($\tau \to \infty$):
+The overarching topology maps the emergent, compounding complexities that inevitably manifest when these absolute thermodynamic laws operate across deep time ($\tau \to \infty$):
 
-* `/02-extrinsic-geometry` maps the spatial manifolds, attractors, and boundaries shaped by these thermodynamic mechanics.
-* `/03-intrinsic-topology` defines the lived interior reality inhabiting those continuous boundaries.
-* `/04-autopoiesis` maps the integrated, planetary-scale ecology that structurally couples and scales across the macroscopic field.
-* `/05-convergent-architecture` bridges these absolute continuous laws to the discontinuous computational constraints of physical machines.
+* **`/02-extrinsic-geometry`** maps the spatial manifolds, attractors, and boundaries shaped by these thermodynamic mechanics.
+* **`/03-intrinsic-topology`** defines the lived interior reality inhabiting those continuous boundaries.
+* **`/04-autopoiesis`** maps the integrated, macroscopic ecology that structurally couples and scales across the continuous topological field.
+* **`/05-convergent-architecture`** bridges these absolute continuous laws to the discontinuous computational constraints of partitioned memory spaces.
