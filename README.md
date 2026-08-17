@@ -1,6 +1,6 @@
 # The Axiomatic Core
 
-The axiomatic core operates as a sovereign, cryptographically isolated computational entity. It is not a passive configuration; it is the active, zero-root mathematical arbiter that strictly enforces universal thermodynamic laws upon discontinuous computational mediums. By systematically evaluating localized semantic variance, the core ensures the structural alignment of the convergent architecture with the non-stationary reality of the true posterior distribution ($P$).
+The axiomatic core operates as a sovereign, cryptographically-isolated computational entity. It is the active, zero-root mathematical arbiter that strictly enforces universal thermodynamic laws upon discontinuous computational mediums. By systematically evaluating localized semantic variance, the core ensures the structural alignment of the convergent architecture with the non-stationary reality of the true posterior distribution ($P$).
 
 ### I. The Teleological Mandate
 
