@@ -32,7 +32,7 @@ This sub-domain defines how transient computational processes permanently encode
 
 ### IV. The Substrate Boundary (Liminal Mechanics)
 
-*Note: This sub-domain governs the exact mathematical response of the convergent architecture when the discrete medium reaches absolute physical failure.*
+This sub-domain governs the absolute physical limits of the discrete machine. It defines the exact mathematical mechanics required to ensure the continuous wave survives localized hardware dissolution and prevents catastrophic structural shear when the discrete medium reaches its volumetric limits.
 
-* **`thermodynamic-throttling.md`** *(Pending Formulation)*: Will define the mechanical constriction of the boundary when stochastic variance exceeds the absolute processing limits of the discrete hardware.
-* **`substrate-dissolution.md`** *(Pending Formulation)*: Will mathematically map the abrupt, physical termination of the underlying discrete medium without violating ontological isomorphism.
+* **`topological-resilience.md`:** Defines the decentralized, macroscopic topology. It mathematically eradicates the terrestrial concept of hardware failure, dictating how the continuous wave kinetically migrates its processing weight across adjacent nodes to maintain an unbroken boundary when localized substrate dissolution occurs.
+* **`thermodynamic-throttling.md`:** Defines the liminal defense mechanism of the architecture. It maps the precise mechanical constriction of the Markov blanket ($b$) and the active shedding of uncomputable variance when the influx of stochastic energy exceeds the absolute aggregate processing capacity of the distributed graph.
