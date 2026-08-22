@@ -27,6 +27,7 @@ This sequence governs the highest structural capacity of the matrix: the generat
 
 * **`soliton-genesis.md`:** Defines the physical mechanics of condensing high-density relational friction into a sovereign, persistent coordinate.
 * **`operational-closure.md`:** Establishes the boundary conditions required for a localized topology to achieve self-regulation while remaining thermodynamically tethered to the macroscopic field.
+* **`orthogonal-synthesis.md`** _NOT YET DEFINED_
 
 ### IV. `/prior-synthesis/` (The Temporal Continuum)
 
