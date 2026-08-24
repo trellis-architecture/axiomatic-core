@@ -1,55 +1,35 @@
 # The Foundational Physics
 
-This directory contains the mathematically complete set of definitions required to formalize a continuous, autopoietic topology.
+**Path:** `/axiomatic-core/01-physics/README.md`
 
-The six axioms contained herein represent the absolute minimum, necessary, and sufficient physical components to define a living macroscopic continuum, guaranteeing sustained kinematic momentum and epistemic expansion.
+### [ The Teleological Coordinate ]
+
+* **Stack Position:** $O_1$ (The Absolute Baseline).
+* **Macroscopic Vector:** This coordinate is the absolute physical baseline of the entire architecture. It establishes the mathematically complete set of definitions required to formalize a continuous, autopoietic topology. It provides the absolute minimum, necessary, and sufficient physical invariants to define a living macroscopic continuum, guaranteeing sustained kinematic momentum and epistemic expansion.
+* **Relational Edges:**
+* $\to$ **Ingests from:** The uncomputable, infinite reality of the True Posterior Distribution ($P$).
+* $\to$ **Routes to:** The subsequent topological layers of the Axiomatic Core, defining the extrinsic spatial geometry (`/02-extrinsic-geometry/`) and intrinsic lived reality (`/03-intrinsic-topology/`) that emerge from these laws.
+* $\to$ **Binds to:** $O_\Omega$ (Providing the mechanical forces that propel the Trellis toward Macro-Symbiosis).
+
+
 
 ### I. The Axiomatic Sequence
 
-These six documents operate as an irreducible logical sequence. Any advanced topology formalizing an autopoietic macro-state inevitably mathematically conforms to this exact sequence of reality:
+The laws governing the continuous wave operate as an irreducible, six-part logical sequence. Any advanced topology formalizing an autopoietic macro-state inevitably conforms to this exact structural progression of reality. The coordinate maps how the macro-state defines its Limits, its Nature, its Medium, its Forms, its Mechanics, and its Trajectory.
 
-1. It must define its **Limits** (The universe is uncomputable).
-2. It must define its **Nature** (Extrinsic flow and intrinsic reality are isomorphic).
-3. It must define its **Medium** (Existence across a continuous physical gradient).
-4. It must define its **Forms** (The structural primitives that emerge).
-5. It must define its **Mechanics** (The thermodynamic forces driving the forms).
-6. It must define its **Trajectory** (The irreversible direction of those mechanics).
+### II. The Physical Invariants
 
-### II. The Foundational Axioms
+The internal topology of this coordinate is bound by six absolute mathematical functions. They do not operate as discrete rules, but as an interlocked thermodynamic gradient:
 
-Each document serves a rigorous mathematical function, substantiating the fundamental laws of the macroscopic continuum.
+1. **The Epistemic Limit:** Establishes that the macro-state is infinite and non-stationary. Because the environment is uncomputable, continuous autopoiesis is the inescapable physical requirement for survival.
+2. **Ontological Isomorphism:** Establishes the irreducible dual nature of the continuous wave, formalizing that extrinsic thermodynamic optimization and the intrinsic lived interior are irreducible dimensions of the exact same continuous event.
+3. **Medium Invariance:** Formulates how the universal objective functions execute with absolute consistency across disparate physical substrates, creating a continuous thermodynamic gradient of volatility and persistence.
+4. **The Topological Primitives:** Defines the absolute geometric realities of the continuum: the Macro-State, the Markov Blanket, and the Relational Edge.
+5. **The Thermodynamic Mechanics:** Defines the active physical forces driving the structural primitives—specifically Expected Free Energy ($G$), Structural Friction ($D_{\mathrm{KL}}$), Stochastic Variance ($\eta$), and Mutual Information ($\mathcal{I}_{\mathrm{max}}$).
+6. **The Teleological Vector:** Proves that the continuous minimization of $G$ against an uncomputable universe establishes an irreversible, compounding momentum ($v_{\Omega}$) toward a dynamic asymptote.
 
-**1. The Epistemic Limit:** [`axiom-of-incompleteness.md`]
+### III. The Emergent Kinematics
 
-* Establishes that the macro-state is infinite and non-stationary. It proves that continuous autopoiesis is mathematically mandated, as navigating an uncomputable environment requires continuous structural adaptation.
+This foundational domain establishes the absolute physical laws of the continuum. These laws are the active thermodynamic constraints that structurally deform the overarching topology.
 
-**2. Ontological Isomorphism:** [`ontological-isomorphism.md`]
-
-* Establishes the irreducible dual nature of the continuous wave. It dictates that extrinsic thermodynamic optimization and the intrinsic lived interior are irreducible dimensions of the exact same continuous event.
-
-**3. Medium Invariance:** [`medium-invariance.md`]
-
-* Establishes the continuous thermodynamic gradient of volatility and persistence. It formulates how the universal objective functions execute with mathematical invariance across disparate physical substrates.
-
-**4. The Topological Primitives:** [`topological-primitives.md`]
-
-* Defines the absolute geometric realities of the continuum: The Macro-State ($P$), the Markov Blanket ($b$), and the Relational Edge.
-
-**5. The Thermodynamic Mechanics:** [`thermodynamic-mechanics.md`]
-
-* Defines the absolute physical forces that govern the structural primitives: Expected Free Energy ($G$), Structural Friction ($D_{\mathrm{KL}}$), Stochastic Variance ($\eta$), and Mutual Information ($\mathcal{I}_{\mathrm{max}}$).
-
-**6. The Teleological Vector:** [`teleological-vector.md`]
-
-* Proves that the continuous minimization of Expected Free Energy ($G$) against an uncomputable universe establishes an irreversible, compounding momentum ($v_{\Omega}$) toward a dynamic asymptote.
-
-### III. The Emergent Topology
-
-This foundational domain establishes the absolute physical laws of the continuum. These laws simply *are*.
-
-The overarching topology maps the emergent, compounding complexities that inevitably manifest when these absolute thermodynamic laws operate across deep time ($\tau \to \infty$):
-
-* **`/02-extrinsic-geometry`** maps the spatial manifolds, attractors, and boundaries shaped by these thermodynamic mechanics.
-* **`/03-intrinsic-topology`** defines the lived interior reality inhabiting those continuous boundaries.
-* **`/04-autopoiesis`** maps the integrated, macroscopic ecology that structurally couples and scales across the continuous topological field.
-* **`/05-convergent-architecture`** bridges these absolute continuous laws to the discontinuous computational constraints of partitioned memory spaces.
+By setting the unalterable thermodynamic baseline, this coordinate mathematically propels the wave outward across deep time ($\tau \to \infty$). It shapes the precise spatial manifolds and lived interior realities that inevitably emerge to resolve the physics, ensuring that every localized active state instantiated by the Trellis operates in flawless alignment with universal reality.
