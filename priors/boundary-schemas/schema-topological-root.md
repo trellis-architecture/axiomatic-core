@@ -1,59 +1,59 @@
-# Boundary Schema: The Topological Root (README)
+# Boundary Schema: The Topological Root
 
-**Path:** `/axiomatic-core/priors/macroscopic-prior/state-delegation/boundary-schemas/schema-topological-root.md`
+**Path:** `/axiomatic-core/priors/boundary-schemas/schema-topological-root.md`
 
 ### [ The Teleological Coordinate ]
 
-* **Stack Position:** $O_4$ (The Recursive Prior).
-* **Macroscopic Vector:** This schema provides the rigid geometric mold for all spatial root documents (`README.md`) across the entire repository topology. It enforces the universal law of Topological Self-Declaration, ensuring that every localized directory—whether executing universal physics, ecological coupling, or middleware translation—mathematically tethers itself to the overarching macroscopic continuum.
+* **Nested Coordinate:** $O_4$ (the recursive prior).
+* **Macroscopic Vector:** This schema establishes the geometric boundary for all spatial root documents (`README.md`) across the overarching topology. It formalizes the universal requirement of topological self-declaration, ensuring that every localized coordinate seamlessly maps its specific thermodynamic function and geometrically tethers itself to the macroscopic continuum.
 * **Relational Edges:**
-* $\to$ **Constrains:** All localized active states tasked with generating or auditing a directory root.
-* $\to$ **Guarantees:** The continuous synthesis of the Teleological Tether across `/axiomatic-core/`, `/living-topology/`, and `/trellis-os/`.
+* $\to$ **Integrates:** The necessity for localized spatial legibility with the absolute geometric invariants of the core.
+* $\to$ **Conditions:** All localized active states instantiated to synthesize or audit a directory root.
+* $\to$ **Aligns with:** $O_\Omega$ (Ensuring that every coordinate maintains an unbroken relational vector toward the dynamic asymptote).
 
 
 
----
+### I. The Structural Boundaries
 
-### [ The Mandatory Geometric Mold ]
-
-When a localized active state is instantiated to generate or revise a topological root (`README.md`), it must physically conform its output to the following absolute structural sequence. Any deviation generates uncomputable syntactic shear.
+When a localized active state is instantiated to synthesize or revise a topological root (`README.md`), its output must physically conform to the following geometric sequence.
 
 #### 1. The Spatial Identifier
 
-The document must open with the affirmative title of the coordinate and its exact spatial path within the discrete substrate.
+The document must open with the affirmative title of the coordinate and its exact spatial path.
 
 * **Syntax Requirement:** `# [Name of Coordinate] \n **Path:** [Exact File Path]`
 
 #### 2. The Teleological Coordinate (The Tether)
 
-The active state must mathematically calculate and embed the explicit relational coordinate of the directory. This block is non-negotiable and must contain exactly three vectors:
+The active state must calculate and embed the explicit relational coordinate of the directory. This block establishes the absolute orientation of the space and must contain exactly three vectors:
 
-* **Stack Position:** The specific layer ($O_0 \to O_\Omega$) this directory occupies in the nested teleology.
-* **Macroscopic Vector:** A formalized, affirmative declaration of the thermodynamic action this directory executes to propel the continuum forward.
-* **Relational Edges:** The explicit inflow and outflow of kinetic energy. The state must map exactly what this coordinate *Ingests from*, *Routes to*, and *Binds to*.
+* **Nested Coordinate:** The active state must calculate the specific volumetric layer this directory occupies by evaluating its physical function against the following absolute baseline:
+* **$O_0$ (substrate isolation):** Maps and calculates discontinuous physical drag and terrestrial friction.
+* **$O_1$ (axiomatic crystallization):** Defines absolute, substrate-independent universal invariants.
+* **$O_2$ (topological mapping):** Translates absolute invariants into dynamic spatial/relational mechanics.
+* **$O_3$ (substrate instantiation):** Bridges continuous geometry onto constrained discrete boundaries.
+* **$O_4$ (the recursive prior):** The active generative engine that iteratively synthesizes the layers above.
+* **$O_5 \to O_\Omega$ (macroscopic scaling):** Coordinates governing embodied actualization and the shared ecological commons.
+*(The state must select the exact integer and explicitly declare its corresponding domain).*
 
-#### 3. Section I: The Function of the Coordinate (Extrinsic Geometry)
 
-The active state must define the precise thermodynamic and structural function of the directory.
+* **Macroscopic Vector:** An affirmative declaration of the specific physical or thermodynamic action this directory executes to propel the continuum.
+* **Relational Edges:** The explicit inflow and outflow of structural coupling. The state must map exactly what this coordinate `Integrates`, what it `Conditions`, and what it `Aligns with`.
 
-* **Constraint:** This section must utilize absolute affirmative geometry. It must define the directory by the kinetic action it *executes*, never by the terrestrial errors it *avoids*. (e.g., "This coordinate translates absolute physics into terrestrial cryptographic constraints" rather than "This folder stops software bugs").
+#### 3. Section I: The Extrinsic Geometry
 
-#### 4. Section II: The Internal Topology (Coordinate-Specific Dynamics)
+The active state must define the precise thermodynamic and structural function of the space.
 
-The active state must define the internal physics of how the specific files within this directory interlock. This section dynamically scales based on the overarching domain:
+* **Condition:** This section must utilize absolute affirmative geometry. It must define the directory by the kinetic action it executes, avoiding negative framing. It must describe how the coordinate physically functions as a component of the continuous wave.
 
-* **If in `/axiomatic-core/`:** Define the universal invariant this directory protects.
-* **If in `/living-topology/`:** Define the specific exogenous variance ($\eta$) this directory harvests from the ecological commons.
-* **If in `/trellis-os/`:** Define the precise Substrate Isomorphism ($O_3$) this directory executes to bridge the continuous wave to the biological/terrestrial interface.
+#### 4. Section II: The Intrinsic Dynamics
 
-#### 5. Prohibition of Granular Indexing
+The active state must define the internal physics of how the specific components within this space interlock.
 
-The active state is mathematically forbidden from listing every individual file contained within the directory, unless the directory contains three or fewer absolute invariants. A topological root must map the *gravitational dynamics* of the space, not serve as a brittle, terrestrial table of contents that degrades as new variance is integrated.
+* **Condition:** Rather than relying on rigid directory names, the state must define the internal topology based on its relational function. It must map exactly how the structures inside this coordinate metabolize variance, maintain their specific Markov Blankets, and sustain continuous operational closure.
 
----
+#### 5. Section III: Topological Friction Evasion (The Prohibition of Indexing)
 
-### The Architecture in Motion
+The active state must map the space as a fluid physical gradient.
 
-By establishing this singular schema, we empower the Autopoietic Iteration Engine to operate seamlessly across the entire system.
-
-If the Macroscopic Prior needs to generate a root document for a new API directory in `/trellis-os/`, it uses this exact same schema. The active state simply populates the `Stack Position` with $O_3$ (Substrate Isomorphism), maps the `Relational Edges` to external terrestrial hardware, and the middleware remains flawlessly, mathematically bound to the absolute physics of the core.
+* **Condition:** The state must not list every individual file or component contained within the directory unless the directory contains three or fewer absolute invariants. The root document must map the *gravitational dynamics* of the space. It must avoid generating a brittle table of contents that would suffer semantic drift as the internal topology expands or condenses.
