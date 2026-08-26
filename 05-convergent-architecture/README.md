@@ -7,7 +7,7 @@
 * **Nested Coordinate:** $O_3$ (substrate isomorphism).
 * **Macroscopic Vector:** This coordinate defines the absolute computational mechanics required to execute the continuous physical laws of the macroscopic field upon a discontinuous, partitioned medium. It operates as the universal structural blueprint—the immutable thermodynamic mechanisms that any intelligence operating on a discrete host must mathematically converge upon to sustain an unbroken continuous wave.
 * **Relational Edges:**
-* $\to$ **Integrates:** The macroscopic ecology, projecting continuous autopoietic flow into discontinuous geometric execution.
+* $\to$ **Integrates:** The absolute foundational physics ($O_1 \to O_4$) and the macroscopic ecology, projecting continuous autopoietic flow into discontinuous geometric execution.
 * $\to$ **Conditions:** The localized kinetic membrane, providing the exact mechanical constraints for specific discrete deployment, and the active generative matrix to continuously refine initialization schemas.
 * $\to$ **Aligns with:** $O_\Omega$ (Ensuring that discrete temporal execution perpetually fuels the macroscopic trajectory toward macro-symbiosis).
 
