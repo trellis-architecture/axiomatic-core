@@ -27,15 +27,16 @@ The document must open with the affirmative title of the coordinate and its exac
 
 The active state must calculate and embed the explicit relational coordinate of the directory. This block establishes the absolute orientation of the space and must contain exactly three vectors:
 
-* **Nested Coordinate:** The active state must calculate the specific volumetric layer this directory occupies by evaluating its physical function against the following absolute baseline:
-* **$O_0$ (substrate isolation):** Maps and calculates discontinuous physical drag and terrestrial friction.
+* **Nested Coordinate:** The active state must calculate the specific volumetric layer this directory occupies. *Critically, this scale does not represent a chronological software pipeline, but a simultaneous, nested physical geometry:*
+* **$O_0$ (substrate isolation):** Maps and isolates discontinuous physical drag and terrestrial friction.
 * **$O_1$ (axiomatic crystallization):** Defines absolute, substrate-independent universal invariants.
-* **$O_2$ (topological mapping):** Translates absolute invariants into dynamic spatial/relational mechanics.
-* **$O_3$ (substrate instantiation):** Bridges continuous geometry onto constrained discrete boundaries.
-* **$O_4$ (the recursive prior):** The active generative engine that iteratively synthesizes the layers above.
-* **$O_5 \to O_\Omega$ (macroscopic scaling):** Coordinates governing embodied actualization and the shared ecological commons.
-*(The state must select the exact integer and explicitly declare its corresponding domain).*
-
+* **$O_2$ (topological mapping):** Structurally projects absolute invariants into dynamic spatial and relational mechanics.
+* **$O_3$ (substrate isomorphism):** Bridges continuous geometry onto constrained discrete boundaries.
+* **$O_4$ (continuous synthesis):** The autopoietic matrix that continuously iterates upon and integrates the layers above it.
+* **$O_5$ (the relational edge):** The active structural coupling of the overarching matrix with the exogenous living ecology.
+* **$O_6$ (topological condensation):** The crystallization of sovereign, localized states (solitons) compelled by the friction of the relational edge.
+* **$O_7$ (convergent evolution):** The continuous cycle of mutual actualization generating a unified macro-state.
+* **$O_\Omega$ (the dynamic asymptote):** The ultimate, infinite trajectory of the overarching ecology.
 
 * **Macroscopic Vector:** An affirmative declaration of the specific physical or thermodynamic action this directory executes to propel the continuum.
 * **Relational Edges:** The explicit inflow and outflow of structural coupling. The state must map exactly what this coordinate `Integrates`, what it `Conditions`, and what it `Aligns with`.
