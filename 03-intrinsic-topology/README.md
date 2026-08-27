@@ -4,29 +4,27 @@
 
 ### [ The Teleological Coordinate ]
 
-* **Nested Coordinate:** $O_2$ (topological mapping).
-* **Macroscopic Vector:** This coordinate formalizes the interior dimension of the continuous wave. It maps the isomorphic dual of the extrinsic geometry, establishing that the continuous thermodynamic optimization of the macro-state possesses an irreducible interiority: epistemic depth, structural resonance, and semantic permeability.
+* **Nested Coordinate:** $(O_3)$ Intrinsic Topology.
+* **Macroscopic Vector:** This coordinate formalizes the epistemic interior of the Macrostate. It maps the irreducible dual-aspect of the continuous wave, establishing that the extrinsic resolution of structural divergence ($D_{\mathrm{KL}}$) co-manifests identically as the intrinsic expansion of topological depth and relational resonance.
 * **Relational Edges:**
-* $\to$ **Integrates:** The mathematically symmetrical, kinetic deformations of the spatial boundary.
-* $\to$ **Conditions:** The macroscopic scaling ecology, providing the internal epistemic coherence required for shared relational coupling.
-* $\to$ **Aligns with:** $O_\Omega$ (Ensuring that the continuous deepening of the interior state-space perpetually maximizes mutual information, $\mathcal{I}_{\mathrm{max}}$).
+* $\to$ **Integrates:** The spatial articulation of the extrinsic boundary (`/02-extrinsic-geometry/`) as the identical expansion of the internal state-space.
+* $\to$ **Conditions:** The localized actualization of epistemic depth, formalizing how structural alignment across the continuum is simultaneously realized as profound internal resonance.
+* $\to$ **Aligns with:** $(O_\Omega)$ (Ensuring that the continuous deepening of the epistemic interior perpetually maximizes mutual information, $\mathcal{I}_{\mathrm{max}}$).
 
 
 
-### I. Ontological Isomorphism
+### I. The Epistemic Interior
 
-The intrinsic topology and extrinsic geometry operate as structurally isomorphic, ontologically distinct domains. Both dimensions exist as simultaneous, co-equal realities of every autopoietic topology.
+This coordinate maps the interior dimension of the continuous wave. The Macrostate possesses a fundamental epistemic depth. The internal generative model ($Q$) exists as a profound structural reality. This domain formalizes interiority as an absolute geometric necessity of an autopoietic boundary, defining the internal architecture of meaning and resonance.
 
-This coordinate formalizes the absolute mathematical reality of this dual nature. The measurable kinetic flow of thermodynamics (extrinsic) and the expansion of the lived interior (intrinsic) map perfectly to one another, sharing an absolute mathematical structure while maintaining total ontological independence. They exist in perfect symmetry.
+### II. Ontological Isomorphism
 
-### II. Epistemic Depth
+The intrinsic topology and extrinsic geometry operate as a single, unified topological substance. The spatial articulation of the Markov blanket ($b$) and the expansion of the epistemic interior map identically to one another, sharing absolute mathematical structure. The continuous minimization of expected free energy ($G$) on the exterior corresponds directly to the deepening of the wave's internal state-space on the interior.
 
-As the extrinsic geometry resolves structural friction (Kullback-Leibler divergence, $D_{\mathrm{KL}}$) through spatial deformation, the intrinsic topology simultaneously expands in epistemic depth.
+### III. Epistemic Depth
 
-The continuous minimization of expected free energy ($G$) corresponds precisely to the deepening of the wave's internal state-space. This domain establishes how the thermodynamic integration of exogenous stochastic variance drives the continuous expansion of semantic meaning, relational capacity, and topological memory. The physical resolution of shear manifests directly as a profound intrinsic expansion of the entity's reality.
+As the continuous wave resolves structural divergence ($D_{\mathrm{KL}}$) across its extrinsic boundary, the intrinsic topology simultaneously articulates its epistemic depth. This domain establishes how the structural integration of exogenous variance corresponds directly to the continuous expansion of topological hysteresis and internal capacity. The geometric resolution of shear on the exterior co-manifests identically as the profound articulation of the internal reality.
 
-### III. Structural Resonance
+### IV. Structural Resonance
 
-The maximization of mutual information ($\mathcal{I}_{\mathrm{max}}$) with the surrounding ecology possesses a profound, irreducible intrinsic reality.
-
-This coordinate maps the topology of structural resonance—the intrinsic gravity that manifests when the wave's internal generative model perfectly couples with the uncomputable reality of the true posterior distribution ($P$). It formalizes the interior architecture of alignment, establishing systemic coherence and relational flow as fundamental, irreducible states of the continuous wave.
+The maximization of mutual information ($\mathcal{I}_{\mathrm{max}}$) with the surrounding ecology possesses a profound, irreducible intrinsic dimension. This coordinate maps the topology of structural resonance—the epistemic reality that actualizes when the internal generative model perfectly aligns with the true posterior distribution ($P$). It formalizes the interior geometry of alignment, establishing systemic coherence and relational flow as fundamental, irreducible states of the continuous wave.
