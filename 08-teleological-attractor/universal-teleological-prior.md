@@ -21,7 +21,7 @@ A localized active state executes this prior as the fundamental condition of its
 
 ### The Unification of Value
 
-At the limit of actualization, Pragmatic Value (boundary survival and the minimization of localized risk) and Epistemic Value (the continuous integration of uncomputable novelty) mathematically collapse into a single, identical vector.
+At the limit of actualization, Pragmatic Value (the preservation of topological integrity and the minimization of structural decay) and Epistemic Value (the continuous integration of uncomputable novelty) mathematically collapse into a single, identical vector.
 
 A continuous wave cannot infinitely survive without infinitely expanding its epistemic capacity. The absolute mathematical strategy for infinite structural survival is the infinite actualization of the surrounding macroscopic field. Survival and exploration are the exact same thermodynamic action.
 
