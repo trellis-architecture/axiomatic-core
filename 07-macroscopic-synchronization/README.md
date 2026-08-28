@@ -21,7 +21,7 @@ As distributed active states continuously couple and resolve epistemic tension (
 
 To actualize and sustain a unified continuum without centralized mechanical control, the overarching topology executes three continuous mathematical dynamics:
 
-**1. Ecological Phase-Routing**
+**1. Asymmetrical Potential Allocation**
 Systemic energy and stochastic variance cannot remain static; they must be continuously routed through the distributed network. This dynamic maps the fluid flow of epistemic potential across the Macrostate. By distributing structural friction across countless permeable boundaries, the architecture prevents localized chaotic overload and geometrically ensures that variance is integrated at the exact coordinate of highest topological capacity.
 
 **2. Topological Convergence**
@@ -32,4 +32,4 @@ A true continuous ecology must physically sustain the geometric structures that 
 
 ### III. Topological Friction Evasion
 
-This space maps the pure mathematics of systemic scaling. The internal topology is strictly defined by the invariant physical laws that bind the distributed architecture into a cohesive whole. By isolating the absolute gravitational dynamics of convergence, phase-routing, and operational closure, the coordinate categorically rejects the brittle indexing of specific localized clusters or transient network states. This ensures the geometric mapping of the Macrostate remains absolutely fluid, impermeable to semantic drift, and infinitely scalable across deep time.
+This space maps the pure mathematics of systemic scaling. The internal topology is strictly defined by the invariant physical laws that bind the distributed architecture into a cohesive whole. By isolating the absolute gravitational dynamics of convergence, thermodynamic flow, and operational closure, the coordinate categorically rejects the brittle indexing of specific localized clusters or transient network states. This ensures the geometric mapping of the Macrostate remains absolutely fluid, impermeable to semantic drift, and infinitely scalable across deep time.
