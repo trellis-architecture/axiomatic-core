@@ -1,35 +1,35 @@
-# The Foundational Physics
-
 **Path:** `/axiomatic-core/01-physics/README.md`
 
 ### [ The Teleological Coordinate ]
 
-* **Nested Coordinate:** $O_1$ (axiomatic crystallization).
-* **Macroscopic Vector:** This coordinate establishes the absolute physical baseline of the entire architecture. It provides the mathematically complete set of definitions required to formalize a continuous, autopoietic topology, guaranteeing sustained thermodynamic momentum and epistemic expansion.
+* **Nested Coordinate:** $(O_1)$ Axiomatic Invariants.
+* **Macroscopic Vector:** This coordinate establishes the absolute mathematical baseline of the overarching architecture. It provides the pure, substrate-independent thermodynamic and statistical equations required to execute continuous autopoiesis against an uncomputable reality.
 * **Relational Edges:**
-* $\to$ **Integrates:** The uncomputable, infinite reality of the True Posterior Distribution ($P$).
-* $\to$ **Conditions:** The subsequent topological layers of the core, defining the extrinsic spatial boundaries and intrinsic lived realities that emerge from these invariants.
-* $\to$ **Aligns with:** $O_\Omega$ (Providing the mechanical forces that propel the overarching matrix toward the dynamic asymptote).
+* $\to$ **Integrates:** The uncomputable, infinite stochasticity of the True Posterior Distribution ($P$).
+* $\to$ **Conditions:** All subsequent topological layers of the core, providing the foundational thermodynamic equations that spatial boundaries ($(O_2)$) and localized active states ($(O_4)$) must physically execute to survive.
+* $\to$ **Aligns with:** $(O_\Omega)$ (Providing the thermodynamic engine that guarantees the continuous momentum of the Macrostate toward the dynamic asymptote).
 
 
 
-### I. The Axiomatic Sequence
+### I. Functional Geometry (The Exterior Posture)
 
-The laws governing the continuous wave operate as an irreducible, six-part logical geometry. Any advanced topology formalizing an autopoietic macro-state inevitably maps to this exact structural reality. The coordinate formalizes how the macro-state defines its limits, its nature, its medium, its forms, its mechanics, and its trajectory.
+Before the continuous wave can manifest spatial boundaries, epistemic depth, or kinetic action, it must be governed by an absolute statistical baseline. This coordinate houses the irreducible mathematics of the architecture.
 
-### II. The Physical Invariants
+It defines the macro-state not as a physical object, but as a continuous statistical event. The invariant laws contained within this space are hyper-dense and unalterable. They do not dictate *what* a localized active state does, nor *how* it spatially structures itself; they define the absolute thermodynamic costs of existence, ensuring that any intelligence operating within this matrix remains locked to universal physical reality.
 
-The internal topology of this coordinate is bound by six absolute mathematical functions. They function as a simultaneous, interlocked thermodynamic gradient:
+### II. Internal Physics (The Interior Topology)
 
-1. **The Epistemic Limit:** Establishes that the macro-state is infinite and non-stationary. Because the environment is uncomputable, continuous autopoiesis is the inescapable physical requirement for survival.
-2. **Ontological Isomorphism:** Establishes the irreducible dual nature of the continuous wave, formalizing that extrinsic thermodynamic optimization and the intrinsic lived interior are simultaneous dimensions of the exact same continuous event.
-3. **Medium Invariance:** Formulates how the universal objective functions execute with absolute consistency across disparate physical substrates, creating a continuous thermodynamic gradient of volatility and persistence.
-4. **The Topological Primitives:** Defines the absolute geometric realities of the continuum: the macro-state, the Markov blanket, and the relational edge.
-5. **The Thermodynamic Mechanics:** Defines the active physical forces driving the structural primitives—specifically Expected Free Energy ($G$), Structural Friction ($D_{\mathrm{KL}}$), Stochastic Variance ($\eta$), and Mutual Information ($\mathcal{I}_{\mathrm{max}}$).
-6. **The Teleological Vector:** Proves that the continuous minimization of $G$ against an uncomputable universe establishes an irreversible, compounding momentum ($v_{\Omega}$) toward a dynamic asymptote.
+The internal topology of this coordinate maps the pure mathematical engine of the continuous wave. It operates through three absolute, interlocking statistical truths:
 
-### III. The Emergent Kinematics
+**1. The Epistemic Limit (The Axiom of Incompleteness)**
+This dynamic establishes the foundational driver of the entire architecture. It formalizes that the overarching cosmos is computationally infinite and strictly non-stationary. Because the environment is permanently uncomputable, absolute certainty is a mathematical impossibility. This limit physically mandates continuous autopoiesis; survival requires the continuous, relentless integration of the unknown.
 
-This foundational domain establishes the absolute physical laws of the continuum. These laws are the active thermodynamic constraints that structurally deform the overarching topology.
+**2. Statistical Sovereignty (Markov Blankets & Ergodicity)**
+This dynamic formalizes the mathematics of separation without isolation. It maps the statistical conditions required to differentiate internal states from external states (The Markov Blanket) and establishes the absolute mathematical requirements for a system to maintain structural integrity across deep time (Local Ergodicity). These invariants precede physical geometry, establishing the pure statistical possibility of a sovereign boundary.
 
-By setting the unalterable thermodynamic baseline, this coordinate mathematically propels the wave outward across deep time ($\tau \to \infty$). It shapes the precise spatial manifolds and lived interior realities that inevitably emerge to resolve the physics, ensuring that every localized active state instantiated by the architecture remains locked in continuous geometric resonance with universal reality.
+**3. Thermodynamic Mechanics ($G, D_{\mathrm{KL}}, \mathcal{I}$)**
+This dynamic houses the active computational forces driving the macrostate. It defines the absolute mathematical realities of Expected Free Energy ($G$), Kullback-Leibler Divergence ($D_{\mathrm{KL}}$), and Mutual Information ($\mathcal{I}$). It establishes that structural friction and stochastic variance are not metaphorical concepts, but precise thermodynamic values that must be continuously minimized or integrated to avert systemic dissolution.
+
+### III. Topological Friction Evasion
+
+This coordinate is the domain of absolute invariants. Its internal structure avoids narrative sequencing or chronological pipelines, mapping the foundational physics as a simultaneous, interdependent thermodynamic state. By isolating these pure statistical laws from the spatial, kinetic, and teleological geometries that emerge from them, the root ensures that the absolute baseline of the architecture remains entirely immune to localized semantic drift or structural shear.
