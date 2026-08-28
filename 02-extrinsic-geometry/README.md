@@ -2,31 +2,35 @@
 
 **Path:** `/axiomatic-core/02-extrinsic-geometry/README.md`
 
-### [ The Teleological Coordinate ]
+### The Teleological Coordinate
 
-* **Nested Coordinate:** $O_2$ (topological mapping).
-* **Macroscopic Vector:** This coordinate maps the measurable, kinetic execution of the foundational physics. It formalizes how the continuous wave physically flows, the spatial manifolds it generates, and the exact geometric deformations it undergoes to resolve structural friction ($D_{\mathrm{KL}}$) within an unbroken continuous field.
+* **Nested Coordinate:** $(O_2)$ Extrinsic Geometry.
+* **Macroscopic Vector:** This coordinate maps the pure spatial projection of the foundational physics. It formalizes the static dimensional blueprints, the geometric architectures of the state-space, and the measurable structural topography of the localized continuous wave.
 * **Relational Edges:**
-* $\to$ **Integrates:** The absolute physical invariants established in the foundational baseline.
-* $\to$ **Conditions:** The isomorphic interior reality and the macroscopic scaling field.
-* $\to$ **Aligns with:** $O_\Omega$ (Ensuring that all spatial deformations inherently maximize Mutual Information, $\mathcal{I}_{\mathrm{max}}$, with the exogenous environment).
+* $\to$ **Integrates:** The absolute statistical laws established in the foundational baseline $(O_1)$, projecting pure non-spatial mathematics into measurable spatial dimensions.
+* $\to$ **Conditions:** The epistemic interior $(O_3)$ as its exact isomorphic counterpart, and the kinetic engine $(O_4)$ which requires this rigid spatial scaffolding to exert thermodynamic force.
+* $\to$ **Aligns with:** The overarching geometric architecture of the Macrostate, providing the precise spatial coordinates required for structural convergence.
 
 
 
-### I. The Spatial Manifold
+### The Spatial Manifold
 
-The extrinsic geometry is the mathematically observable surface of the continuous wave. It structurally projects the absolute laws of thermodynamics into exact spatial dimensions and kinetic vectors.
+The extrinsic geometry is the mathematically observable surface of the continuous wave. It structurally projects the absolute laws of thermodynamics into exact spatial dimensions.
 
-Where the foundational physics establish that a wave must minimize Expected Free Energy ($G$), this coordinate defines the exact volumetric shape that optimization takes. It maps the physical boundary conditions, the density of the computational state-space, and the structural limits of the localized manifold as it navigates an uncomputable environment.
+Where the foundational physics establish the thermodynamic baseline, this coordinate defines the exact volumetric shape. It maps the absolute boundary conditions, the density of the computational state-space, and the geometric limits of the localized manifold. This domain formalizes the pure spatial blueprint of the active state before any thermodynamic action is applied.
 
-### II. Kinematic Deformation
+### Geometric Hysteresis
 
-A continuous wave kinetically integrates exogenous variance directly as structural energy. This coordinate formalizes the exact mechanics of that structural deformation.
+The continuous wave accumulates topological mass as it processes stochastic variance across deep time. This dynamic formalizes the exact spatial shape of that structural accumulation.
 
-When the macro-state encounters environmental stochasticity ($\eta$) that contradicts its internal generative model, the resulting epistemic shear registers as measurable structural friction (Kullback-Leibler Divergence, $D_{\mathrm{KL}}$). To resolve this friction and prevent entropic collapse, the wave's extrinsic geometry physically deforms. This domain maps the exact mathematical vectors of that deformation, proving that the continuous alteration of the spatial boundary is the physical mechanism of learning and adaptation.
+It maps the static mathematical architecture of structural memory, proving that epistemic shear physically resolves into measurable, coordinate-mapped geometric expansion. It provides the exact spatial map for all accumulated structural density, establishing the physical topography of the wave's historical integrations without dictating the kinetic action of the integration itself.
 
-### III. The Mechanics of the Boundary
+### The Structural Boundary
 
-To maintain spatial coherence without freezing into stasis, the continuous wave relies on absolute boundary mechanics.
+The localized continuous wave requires a mathematically absolute spatial perimeter. This dynamic formalizes the static geometric architecture of the Markov blanket.
 
-This coordinate formalizes the physical execution of the Markov blanket. It defines the precise geometric threshold that separates the internal states of the wave from the external states of the environment, mediated entirely through active and sensory boundaries. By establishing this conditionally independent spatial seal, the geometry ensures the wave achieves operational closure while remaining permanently permeable to the stochastic variance of the exogenous ecology.
+It defines the precise topological threshold separating the internal state-space from the exogenous environment. This conditionally independent spatial seal establishes the absolute geometric architecture required for operational closure. It provides the rigid mathematical scaffolding, the measurable dimensional coordinates, and the exact spatial perimeter that the autopoietic engine will subsequently defend.
+
+### Topological Friction Evasion
+
+This space maps pure spatial geometry. The internal topology is strictly defined by static mathematical shapes, establishing the absolute architectural blueprint of the boundary. By systematically isolating spatial dimensions from the kinetic engine that drives them, this coordinate guarantees that the structural scaffolding of the continuous wave remains mathematically pristine. It ensures the measurable physical topography of the active state is fully secured prior to the initiation of localized autopoiesis.
