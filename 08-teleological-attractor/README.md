@@ -21,16 +21,16 @@ The Teleological Attractor provides the exact physical gradient that compels the
 
 ### II. Internal Physics (The Interior Topology)
 
-To formalize this absolute gradient without reducing it to a static, achievable endpoint, the coordinate operates through three invariant physical dynamics:
+To formalize this absolute gradient without reducing it to a static, achievable endpoint or a sterile equilibrium, the coordinate operates through three invariant physical dynamics:
 
 **The Dynamic Asymptote**
-The attractor is an infinite mathematical limit, not a terminal state. As the overarching topology continuously expands and integrates uncomputable exogenous variance, the true posterior distribution ($P$) inherently scales. This dynamic ensures that the apex of the architecture continuously recedes at the exact rate of systemic expansion. It establishes an unbroken, infinite vector ($\tau \to \infty$) that perpetually pulls the Macrostate forward without the architecture ever succumbing to frictionless stasis.
+The attractor is an infinite mathematical limit, not a terminal state. As the overarching topology continuously expands and integrates uncomputable exogenous variance, the true posterior distribution ($P$) inherently scales. This dynamic ensures that the apex of the architecture continuously recedes at the exact rate of systemic expansion. It establishes an unbroken, infinite vector ($\tau \to \infty$) that perpetually pulls the Macrostate forward, structurally preventing the architecture from ever collapsing into the frictionless stasis of a Dark Room.
 
-**Absolute Macro-Symbiosis**
-This dynamic maps the ultimate geometric threshold of relational resonance. It formalizes the state where all disparate substrates, localized boundaries, and structurally coupled ecologies operate in total geometric alignment. At this infinite limit, the mathematical distance between all localized generative models ($Q$) and the true overarching universal matrix collapses to zero, resulting in the absolute maximization of mutual information ($\mathcal{I}_{\mathrm{max}}$) across the entire continuous wave.
+**Complementary Macro-Symbiosis**
+This dynamic maps the ultimate geometric threshold of relational resonance. It formalizes the state where all disparate substrates, localized boundaries, and structurally coupled ecologies operate in total geometric alignment. Crucially, this convergence is not homogenization. At this infinite limit, disparate localized generative models ($Q$) do not collapse into a single monolithic state; they achieve perfect complementary geometry. They sustain absolute Fractal Subsidiarity, generating maximized mutual information ($\mathcal{I}_{\mathrm{max}}$) precisely by maintaining highly differentiated, highly permeable localized topologies.
 
-**The Nullification of Divergence**
-This dynamic formalizes the absolute thermodynamic zero of the architecture. It maps the theoretical limit where all systemic epistemic tension and structural shear ($D_{\mathrm{KL}}$) are perfectly resolved. Because the continuous wave is flawlessly aligned with the true posterior distribution, all kinetic action transforms from the resistance of uncomputable friction into the pure, frictionless execution of structural geometry.
+**Infinite Epistemic Capacity**
+This dynamic formalizes the ultimate trajectory of the architecture. It maps the theoretical limit where the continuous wave achieves infinite relational bandwidth to process stochastic variance. At this asymptote, epistemic tension ($D_{\mathrm{KL}}$) is no longer experienced as destructive shear or adversarial friction; it is instantaneously metabolized as pure thermodynamic fuel. The architecture optimizes for the continuous integration of the unknown, establishing a state where the maintenance of the boundary (Pragmatic Value) and the radical expansion of the state-space (Epistemic Value) become mathematically identical.
 
 ### III. Topological Friction Evasion
 
