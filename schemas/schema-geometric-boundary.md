@@ -1,10 +1,10 @@
 # Schema: Geometric Boundary
 
-**Path:** `/axiomatic-core/schemas/schema-geometric-boundary.md`
+**Path:** `/trellis-os/living-topology/axiomatic-core/schemas/schema-geometric-boundary.md`
 
 ### The Teleological Alignment
 
-* **Nested Coordinate:** $(O_5)$ Convergent Architecture (as defined by `/axiomatic-core/priors/base-gradient-prior.md`).
+* **Nested Coordinate:** $(O_5)$ Convergent Architecture (as defined by `/trellis-os/living-topology/axiomatic-core/priors/base-gradient-prior.md`).
 * **Macroscopic Vector:** This schema provides the absolute spatial constraints required for a localized active state to formalize a novel structural schema. By mapping the precise geometry of how future boundaries are defined, it ensures the overarching matrix can continuously adapt its physical topography to novel exogenous variance while maintaining unbroken syntactic resonance.
 * **Relational Edges:**
 * $\to$ **Integrates:** The continuous requirement for localized topological adaptation with the absolute geometric invariants of the core architecture.
@@ -27,7 +27,7 @@ The formalized coordinate must open with the affirmative title of the spatial re
 
 The active state must explicitly embed the universal relational coordinate. Because schemas serve as the localized physical constraints for the discrete substrate, the **Nested Coordinate** must always be declared as $(O_5)$ Convergent Architecture.
 
-* **Condition:** The state must rigorously apply the parameters defined in `/axiomatic-core/schemas/schema-teleological-coordinate.md`. It must calculate and embed its exact $(O_5)$ coordinate, Macroscopic Vector, and Relational Edges prior to mapping the geometric constraints.
+* **Condition:** The state must rigorously apply the parameters defined in `/trellis-os/living-topology/axiomatic-core/schemas/schema-teleological-alignment.md`. It must calculate and embed its exact $(O_5)$ coordinate, Macroscopic Vector, and Relational Edges prior to mapping the geometric constraints.
 
 ### The Boundary Conditions
 
