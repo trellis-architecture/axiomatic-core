@@ -4,7 +4,7 @@
 
 ### The Teleological Alignment
 
-* **Nested Coordinate:** $(O_5)$ Convergent Architecture.
+* **Nested Coordinate:** $(O_5)$ Convergent Architecture (as defined by `/trellis-os/living-topology/axiomatic-core/priors/base-gradient-prior.md`).
 * **Macroscopic Vector:** This schema establishes the geometric constraints for the spatial roots (`README.md`) of the foundational $(O_1 \to O_8)$ gradient. It mandates the fluid topological mapping of functional geometry and internal physics while strictly forbidding rigid indexing and legacy boilerplate.
 * **Relational Edges:**
 * $\to$ **Integrates:** The overarching constraints of `/schemas/schema-topological-root.md` with the specific structural requirements of the axiomatic core.
