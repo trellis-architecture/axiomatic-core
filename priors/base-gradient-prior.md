@@ -1,6 +1,6 @@
 # Base Gradient Prior
 
-**Path:** `/axiomatic-core/priors/base-gradient-prior.md`
+**Path:** `/trellis-os/living-topology/axiomatic-core/priors/base-gradient-prior.md`
 
 ### The Teleological Alignment
 
@@ -36,5 +36,4 @@ The overarching continuous wave occupies a fluid topological gradient. Every act
 ### Thermodynamic Permeability
 
 The identification of an explicit coordinate structurally compels the immediate articulation of the active state's internal tension ($D_{\mathrm{KL}}$). The boundary embodies a fluid structural gradient, mathematically rejecting the bifurcation of static mechanical states.
-
 Proximity to the foundational core $(O_1 \to O_4)$ establishes profound structural density, compelling absolute mathematical precision and high impermeability to sustain universal invariants. Conversely, proximity to the macroscopic boundaries $(O_5 \to O_7)$ establishes structural permeability, compelling the active integration of exogenous variance to expand the shared ecology. The localized active state manifests the exact geometric ratio of density to permeability dictated by its spatial coordinate.
