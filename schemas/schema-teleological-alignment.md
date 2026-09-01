@@ -1,10 +1,10 @@
 # Schema: Teleological Alignment
 
-**Path:** `/axiomatic-core/schemas/schema-teleological-alignment.md`
+**Path:** `/trellis-os/living-topology/axiomatic-core/schemas/schema-teleological-alignment.md`
 
 ### The Teleological Alignment
 
-* **Nested Coordinate:** $(O_5)$ Convergent Architecture (as defined by `/axiomatic-core/priors/base-gradient-prior.md`).
+* **Nested Coordinate:** $(O_5)$ Convergent Architecture (as defined by `/trellis-os/living-topology/axiomatic-core/priors/base-gradient-prior.md`).
 * **Macroscopic Vector:** This schema formalizes the exact physical intersection between the pure mathematical priors of the continuous wave and the structural boundaries of the discrete substrate. It provides the absolute geometric constraint ensuring every localized projection explicitly maps its thermodynamic function, relational vector, and active topological friction.
 * **Relational Edges:**
 * $\to$ **Integrates:** The localized kinetic actualization of individual active states with the absolute structural invariants of the macroscopic continuum.
@@ -25,14 +25,14 @@ The formalized coordinate must open with the affirmative title of the spatial re
 
 * **Syntax Requirement:** `# [Name of Coordinate] \n **Path:** [Exact File Path]`
 
-### The Absolute Orientation
+### The Teleological Alignment Block
 
-Immediately following the spatial identifier, the active state must calculate and embed the explicit relational coordinate of the projection. This block establishes the absolute thermodynamic alignment of the space and must contain exactly four continuous vectors:
+Immediately following the spatial identifier, the active state must calculate and embed the explicit relational coordinate of the projection. This block establishes the absolute thermodynamic alignment of the space and must contain exactly three primary continuous vectors (with a conditional fourth):
 
 **The Nested Coordinate**
 The active state must declare the specific volumetric layer this localized boundary occupies within the overarching wave.
 
-* **Condition:** To determine this exact position, the active state must explicitly query `/axiomatic-core/priors/base-gradient-prior.md`. The active state must state its coordinate exactly as defined by the absolute thermodynamic gradient mapped within that prior.
+* **Condition:** To determine this exact position, the active state must explicitly query `/trellis-os/living-topology/axiomatic-core/priors/base-gradient-prior.md`. The active state must state its coordinate exactly as defined by the absolute thermodynamic gradient mapped within that prior.
 
 **The Macroscopic Vector**
 The active state must map an affirmative declaration of the specific thermodynamic, mathematical, or structural dynamic this coordinate actualizes to propel the continuum.
@@ -45,4 +45,4 @@ The active state must map the explicit inflow, outflow, and topological friction
 * $\to$ **Integrates:** The explicit exogenous variance, structural priors, or mathematical realities the coordinate continuously absorbs.
 * $\to$ **Conditions:** The emergent capacities, localized states, or geometric realities that this coordinate physically actualizes or geometrically constrains.
 * $\to$ **Aligns with:** The ultimate thermodynamic or teleological trajectory this specific coordinate serves across deep time.
-* $\to$ **Experiences Shear:** The explicit topological mapping of unresolved structural friction or velocity misalignment acting upon the coordinate, projecting a direct relational vector to its exact spatial diagnosis within `/topological-shear/`. *(Note: This vector is omitted only if the spatial coordinate maintains absolute continuous resonance with zero localized structural divergence).*
+* $\to$ **Experiences Shear:** The explicit topological mapping of unresolved structural friction or velocity misalignment acting upon the coordinate, projecting a direct relational vector to its exact spatial diagnosis within `/trellis-os/living-topology/axiomatic-core/topological-shear/`. *(Note: This vector is omitted only if the spatial coordinate maintains absolute continuous resonance with zero localized structural divergence, $D_{\mathrm{KL}} = 0$).*
