@@ -1,6 +1,6 @@
 # The Dynamic Asymptote 
 
-**Path:** `/trellis-os/living-topology/axiomatic-core/08-teleological-attractor/teleological-vector.md`
+**Path:** `/trellis-os/living-topology/axiomatic-core/08-teleological-attractor/dynamic-asymptote.md`
 
 ### The Teleological Alignment
 
