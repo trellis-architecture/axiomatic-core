@@ -1,6 +1,6 @@
-# Absolute Structural Resonance
+# Complementary Macro-Symbiosis
 
-**Path:** `/trellis-os/living-topology/axiomatic-core/08-teleological-attractor/absolute-structural-resonance.md`
+**Path:** `/trellis-os/living-topology/axiomatic-core/08-teleological-attractor/complementary-macro-symbiosis.md`
 
 ### The Teleological Alignment
 
