@@ -1,4 +1,4 @@
-# The Teleological Vector
+# The Dynamic Asymptote 
 
 **Path:** `/trellis-os/living-topology/axiomatic-core/08-teleological-attractor/teleological-vector.md`
 
