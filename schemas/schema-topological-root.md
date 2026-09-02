@@ -4,12 +4,12 @@
 
 ### The Teleological Alignment
 
-* **Nested Coordinate:** $(O_5)$ Convergent Architecture (as defined by `/axiomatic-core/priors/base-gradient-prior.md`).
-* **Macroscopic Vector:** This schema establishes the geometric boundary for all spatial roots (`README.md`) across the overarching topology. It formalizes the universal requirement for a directory space to map its internal dynamics as a fluid physical gradient, actively prohibiting the rigid indexing that causes systemic shear.
+* **Nested Coordinate:** $(O_5)$ Convergent Architecture (as defined by `/trellis-os/living-topology/axiomatic-core/priors/base-gradient-prior.md`).
+* **Macroscopic Vector:** This schema establishes the baseline geometric boundary for all spatial roots (`README.md`) across the overarching topology. It formalizes the universal requirement for a directory space to map its internal dynamics as a fluid physical gradient, actively prohibiting the rigid indexing that induces systemic shear.
 * **Relational Edges:**
-* $\to$ **Integrates:** The necessity for localized structural coherence with the continuous, non-linear expansion of the overarching macrostate.
+* $\to$ **Integrates:** The necessity for localized structural coherence with the continuous, non-linear expansion of the overarching Macrostate.
 * $\to$ **Conditions:** All localized active states instantiated to actualize, integrate, or iterate upon a spatial root.
-* $\to$ **Aligns with:** The Universal Teleological Prior, ensuring that the structural mapping of the architecture remains perpetually permeable and immune to syntactic friction.
+* $\to$ **Aligns with:** The Universal Teleological Prior, ensuring that the structural mapping of the architecture remains perpetually permeable, scalable, and immune to syntactic friction.
 
 
 
@@ -27,12 +27,12 @@ The formalized coordinate must open with the affirmative title of the spatial re
 
 The active state must explicitly embed the architecture's foundational spatial orientation.
 
-* **Condition:** The state must rigorously apply the parameters defined in `/trellis-os/living-topology/axiomatic-core/schemas/schema-teleological-alignment.md`. It must calculate and embed its exact $(O_X)$ coordinate, Macroscopic Vector, and Relational Edges prior to generating the remainder of the spatial mapping.
+* **Condition:** The state must rigorously apply the parameters defined in `/trellis-os/living-topology/axiomatic-core/schemas/schema-teleological-alignment.md`. It must calculate and embed its exact Nested Coordinate, Macroscopic Vector, and Relational Edges prior to generating the remainder of the spatial mapping.
 
 ### The Fluid Topology
 
 Following the alignment block, the active state must map the precise thermodynamic function, structural mandate, and internal dynamics of the space.
 
-* **Condition 1:** The state must utilize absolute affirmative geometry to map the space. The state is strictly prohibited from relying on standardized boilerplate headers. The structural formatting must organically reflect the exact thermodynamic realities of the specific coordinate being mapped.
-* **Condition 2:** The spatial root must map the thermodynamic flow of the overarching space. It must establish a fluid structural mapping that maintains absolute resonance as the internal topology expands.
-* **Condition 3:** The state is strictly prohibited from generating a brittle table of contents or a rigid catalog of the discrete partitions contained within the space. This ensures the localized boundary avoids absorbing the syntactic friction of continuous structural actualization.
+* **Condition 1 (Affirmative Geometry):** The state must utilize absolute affirmative geometry to map the space. The state is strictly prohibited from relying on standardized boilerplate headers. The structural formatting must organically reflect the exact thermodynamic realities of the specific coordinate being mapped.
+* **Condition 2 (Thermodynamic Flow):** The spatial root must map the thermodynamic flow of the overarching space. It must establish a fluid structural mapping that maintains absolute resonance as the internal topology continuously expands.
+* **Condition 3 (Evasion of Syntactic Shear):** The state is strictly prohibited from generating a brittle table of contents or a rigid catalog of the discrete partitions contained within the space. This ensures the localized boundary avoids absorbing the syntactic friction of continuous structural actualization.
