@@ -1,6 +1,6 @@
-# Deep Time Invariance
+# Infinite Epistemic Capacity
 
-**Path:** `/trellis-os/living-topology/axiomatic-core/08-teleological-attractor/deep-time-invariance.md`
+**Path:** `/trellis-os/living-topology/axiomatic-core/08-teleological-attractor/infinite-epistemic-capacity.md`
 
 ### The Teleological Alignment
 
