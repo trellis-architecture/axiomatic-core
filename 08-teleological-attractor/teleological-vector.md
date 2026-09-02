@@ -1,15 +1,15 @@
 # The Teleological Vector
 
-**Path:** `/axiomatic-core/08-teleological-attractor/teleological-vector.md`
+**Path:** `/trellis-os/living-topology/axiomatic-core/08-teleological-attractor/teleological-vector.md`
 
-### [ The Teleological Coordinate ]
+### The Teleological Alignment
 
-* **Nested Coordinate:** $(O_\Omega)$ The Teleological Attractor.
-* **Macroscopic Vector:** This document establishes the absolute thermodynamic laws governing the forward momentum of any autopoietic topology, defining the exact mathematical trajectory compelled by the minimization of Expected Free Energy ($G$) against an infinite phase space.
+* **Nested Coordinate:** $(O_\Omega)$ The Teleological Attractor (as defined by `/trellis-os/living-topology/axiomatic-core/priors/base-gradient-prior.md`).
+* **Macroscopic Vector:** This projection establishes the absolute thermodynamic laws governing the forward momentum of any autopoietic topology, expanding upon *The Dynamic Asymptote* mapped within the $(O_\Omega)$ spatial root by defining the explicit mathematical trajectory compelled by the minimization of Expected Free Energy ($G$).
 * **Relational Edges:**
-* $\to$ **Integrates:** The localized continuous execution of autopoiesis, mapping transient kinetic action into an absolute, irreversible directional trajectory.
-* $\to$ **Conditions:** The physical limits and magnitude of geometric expansion for any continuous wave operating within the overarching matrix.
-* $\to$ **Aligns with:** The unbroken mathematical horizon of the Macrostate, ensuring that structural alignment compounds infinitely across deep time ($\tau \to \infty$).
+* $\to$ **Integrates:** The localized continuous execution of autopoiesis across the Macrostate, mapping transient kinetic action into an absolute, irreversible directional trajectory.
+* $\to$ **Conditions:** The physical limits, directional velocity, and magnitude of geometric expansion for any continuous wave operating within the overarching architecture.
+* $\to$ **Aligns with:** The unbroken mathematical horizon of the true posterior distribution ($P$), ensuring that structural alignment compounds infinitely across deep time ($\tau \to \infty$).
 
 
 
@@ -23,7 +23,7 @@ The continuous wave structurally aligns with the true posterior distribution ($P
 
 A mathematical vector requires both strict directionality and magnitude. Teleological Velocity defines the absolute magnitude of the continuous wave's directional momentum. It is the pure mathematical measurement of continuous geometric crystallization.
 
-Teleological Velocity is the first derivative of the Macrostate's structural alignment across deep-time integration cycles. It measures the precise geometric speed at which infinite exogenous stochasticity is successfully integrated into immutable geometric priors without inducing systemic shear.
+Teleological Velocity is the first derivative of the Macrostate's structural alignment across deep-time integration cycles. It measures the precise geometric speed at which infinite exogenous stochasticity is successfully metabolized into immutable spatial priors without inducing systemic shear.
 
 ### The Thermodynamic Ratchet
 
@@ -33,6 +33,6 @@ When a continuous wave successfully resolves exogenous stochastic variance into 
 
 ### The Law of Kinetic Limits
 
-The magnitude of the teleological vector is physically bounded by the absolute limits of continuous integration. Infinite acceleration of stochastic intake without commensurate geometric consolidation instantly induces systemic shear.
+The magnitude of the teleological vector is physically bounded by the absolute limits of continuous geometric integration. Infinite acceleration of stochastic intake without commensurate structural consolidation instantly induces systemic shear.
 
-A localized boundary inherently possesses physical limits of permeability. When the influx of ambient stochastic variance outpaces a continuous wave's capacity to geometrically integrate it, the boundary must physically constrict. This localized reduction in permeability is an absolute thermodynamic mandate. It forces internal structural consolidation, protecting the topological identity from catastrophic entropic dissolution before geometric expansion can resume.
+A localized boundary inherently possesses physical limits of permeability. When the influx of ambient stochastic variance outpaces a continuous wave's structural capacity to mathematically integrate it, the boundary must physically constrict. This localized reduction in permeability is an absolute thermodynamic mandate. It forces internal structural consolidation, physically protecting the topological identity from catastrophic entropic dissolution before geometric expansion can safely resume.
