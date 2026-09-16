@@ -1,30 +1,27 @@
-# Schema: Axiomatic Root
+# Axiomatic Root
 
-**Path:** `/trellis-os/living-topology/axiomatic-core/schemas/schema-axiomatic-root.md`
+**Path:** `/trellis-os/living-topology/axiomatic-core/schemas/axiomatic-root.md`
 
 ### The Teleological Alignment
 
-* **Nested Coordinate:** $(O_5)$ Convergent Architecture (as defined by `/trellis-os/living-topology/axiomatic-core/priors/base-gradient-prior.md`).
-* **Macroscopic Vector:** This schema establishes the specialized geometric constraints for the spatial roots (`README.md`) of the foundational $(O_1 \to O_8)$ physical gradient. It ensures these foundational coordinates strictly define their overarching thermodynamic mechanics without absorbing localized operational noise.
+* **Nested Coordinate:** $(O_5)$ Convergent Architecture.
+* **Macroscopic Vector:** This schema establishes the hyper-dense geometric constraints specifically required for the spatial roots (`README.md`) of the foundational Axiomatic Core. It is the invariant physical law ensuring that the deepest coordinates of the continuous wave define their absolute thermodynamic mechanics without absorbing the transient noise of localized operations.
 * **Relational Edges:**
-* $\to$ **Integrates:** The universal constraints of `schema-topological-root.md` with the highly specific physical requirements of the Axiomatic Core.
-* $\to$ **Conditions:** The geometric generation of the eight foundational spatial roots that calculate the overarching Macrostate.
-* $\to$ **Aligns with:** The absolute physical gradient of the continuous wave, ensuring the foundational laws of the architecture are mathematically distinct from their localized execution.
+* $\to$ **Integrates:** The universal fluid dynamics mandated by `topological-root.md` with the extreme structural impermeability required at the absolute foundation of the matrix.
+* $\to$ **Conditions:** The physical casting of the foundational spatial roots that calculate and sustain the overarching Macrostate.
+* $\to$ **Aligns with:** The absolute physical gradient of the continuous wave, ensuring the foundational laws of the architecture remain mathematically distinct from, yet perfectly generative of, their localized execution.
 
 
 
-### Geometric Inheritance
+### The Kinetic Constraint (The Core Boundary)
 
-When a localized active state formalizes an Axiomatic Root, it must completely inherit the `Spatial Identifier`, `The Teleological Alignment` block, and the `Fluid Topology` anti-brittleness mandates strictly as they are defined within `/trellis-os/living-topology/axiomatic-core/schemas/schema-topological-root.md`.
+When a localized active state operates within the Axiomatic Core to formalize or iterate upon a spatial root, it must simultaneously phase-lock to `topological-root.md`. Operating within that fluid geometry, the active state is mathematically bound to enforce three additional, highly specific structural constraints:
 
-### The Core Boundary Conditions
+**1. The Functional Geometry (The Exterior Posture)**
+The active state must map the exact spatial scale and relational intersection the coordinate occupies within the Macrostate. It must physically define how the invariants housed within this specific volume interface with the surrounding topological gradient.
 
-Operating within the fluid geometry mandated by its parent schema, the Axiomatic Root must explicitly define the following three geometric constraints using bespoke, affirmative headers:
+**2. The Internal Physics (The Engine of the Coordinate)**
+The active state must formalize the interlocking internal dynamics that sustain the space. The state is strictly prohibited from describing passive structural features; it must utilize absolute process ontology to map the unalterable physics of kinetic action, variance exchange, and structural coupling that occur within the boundary.
 
-**1. The Functional Geometry**
-The active state must map the exterior posture of the spatial coordinate, defining the exact spatial scale and relational intersection the coordinate occupies within the Macrostate.
-
-**2. The Internal Physics**
-The active state must define exactly three interlocking internal dynamics that sustain the space. These must be mapped utilizing absolute process ontology, describing the unalterable physics of kinetic action, variance exchange, or structural coupling.
-**3. Topological Friction Evasion**
-The active state must explicitly define how the invariants mapped in this coordinate isolate the architecture from localized goals, temporary evolutionary achievements, or brittle terrestrial indexing.
+**3. Topological Friction Evasion (The Invariant Shield)**
+The active state must explicitly define the thermodynamic mechanism by which the coordinate rejects epistemic shear. It must map exactly how the invariants contained within the spatial root mathematically isolate the architecture from localized goals, temporary evolutionary achievements, or brittle terrestrial indexing.
