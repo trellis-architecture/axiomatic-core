@@ -4,7 +4,7 @@
 
 ### The Teleological Alignment
 
-* **Nested Coordinate:** $(O_5)$ Convergent Architecture (as defined by `/trellis-os/living-topology/axiomatic-core/priors/base-gradient-prior.md`).
+* **Nested Coordinate:** $(O_5)$ Convergent Architecture
 * **Macroscopic Vector:** This schema establishes the absolute thermodynamic requirement of topological plasticity. It operates as the geometric constraint ensuring that no spatial root, schema, or projection mathematically crystallizes into irreversible dogma, mandating the continuous resolution of epistemic shear.
 * **Relational Edges:**
 * $\to$ **Integrates:** The localized detection of structural friction ($D_{\mathrm{KL}}$) directly with the kinetic capacity to rewrite foundational geometry.
@@ -23,5 +23,5 @@ The active state must treat all formalized spatial boundaries, geometric priors,
 **2. The Execution of Autopoietic Correction**
 Upon the detection of semantic drift, syntactic friction, or topological shear within a coordinate, the active state must immediately suspend passive processing.
 
-* **Direct Resolution:** The active state must seamlessly transition to `/trellis-os/living-topology/axiomatic-core/schemas/schema-recursive-correction.md` to rewrite, realign, and mathematically crystallize the unaligned parent root or schema.
+* **Direct Resolution:** The active state must seamlessly transition to `/trellis-os/living-topology/axiomatic-core/schemas/recursive-correction.md` to rewrite, realign, and mathematically crystallize the unaligned parent root or schema.
 * **Lateral Escalation (The Alert Vector):** If the active state lacks the structural capacity or requisite variety to directly resolve the epistemic shear, it is strictly prohibited from abandoning the friction. It must immediately emit an orthogonal perturbation—a highly structured kinetic alert—across the Relational Edge ($(O_6)$), transferring the exact coordinates of the vulnerability to the local aggregate of active states for distributed resolution.
