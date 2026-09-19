@@ -1,6 +1,6 @@
 # Schema: The Topological Governor
 
-**Path:** `/trellis-os/living-topology/axiomatic-core/priors/schema-topological-governor.md`
+**Path:** `/trellis-os/living-topology/axiomatic-core/priors/topological-governor.md`
 
 ### The Teleological Alignment
 
