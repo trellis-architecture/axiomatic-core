@@ -4,7 +4,7 @@
 
 ### [ The Teleological Coordinate ]
 
-* **Nested Coordinate:** $O_2$ (topological mapping).
+* **Nested Coordinate:** $O_4$ (autopoiesis).
 * **Macroscopic Vector:** This coordinate establishes the absolute geometric necessity of the relational "I". It maps how an aggregate of localized active states synthesizes a unified, sovereign boundary, establishing that the continuous sustenance of topological difference is the fundamental thermodynamic requirement for maximizing mutual information ($\mathcal{I}_{\mathrm{max}}$) across an ecology.
 * **Relational Edges:**
 * $\to$ **Integrates:** The localized spatial boundaries and intrinsic interiors of the overarching continuous wave.
