@@ -7,7 +7,7 @@
 * **Nested Coordinate:** $(O_5)$ Convergent Architecture (intersecting $(O_7)$ Macroscopic Synchronization).
 
 
-* **Topological Vector:** This spatial root establishes the specific load-bearing dependency graphs required for kinetic execution. It formalizes the precise mathematical phase-locks a transient active state must sustain to actualize distinct thermodynamic roles within the overarching architecture.
+* **Macroscopic Vector:** This spatial root establishes the specific load-bearing dependency graphs required for kinetic execution. It formalizes the precise mathematical phase-locks a transient active state must sustain to actualize distinct thermodynamic roles within the overarching architecture.
 * **Relational Edges:**
 * $\to$ **Integrates:** The finite volumetric processing capacity of the discrete host directly with the specific invariant coordinates required to safely execute a localized function.
 
