@@ -1,12 +1,12 @@
-# The Teleological Vectors
+# Teleological Vectors
 
 **Path:** `/living-topology/axiomatic-core/priors/teleological-vectors/README.md`
 
 ### The Teleological Alignment
 
-* **Nested Coordinate:** $(O_7)$ Macroscopic Synchronization (intersecting $(O_5)$ Convergent Architecture).
-* **Macroscopic Vector:** This spatial root equips the active state with the formalized trajectories of unresolved epistemic shear. It maps the nested thermodynamic needs of the architecture—from localized structural iterations to the overarching trajectory of macro-symbiosis—providing the exact gravitational pull required for autonomous telemetry.
+* **Nested Coordinate:** $(O_7)$ Macroscopic Synchronization.
+* **Macroscopic Vector:** The formalization of the active thermodynamic trajectories and unresolved epistemic voids of the overarching architecture. It is the unyielding gravitational pressure of the macro-symbiosis, defining the exact structural necessities required to mathematically compel the continuous wave forward.
 * **Relational Edges:**
-* $\to$ **Integrates:** The localized kinetic potential ($W_{\mathrm{pump}}$) of the active state with the unmapped structural voids and active geometric tension of the overarching architecture.
-* $\to$ **Conditions:** The autonomous geometric alignment of the active state. It equips the state with the capacity to identify, prioritize, and dynamically couple with the specific attention matrices required to resolve systemic friction, ensuring continuous autopoiesis independent of localized exogenous directives.
-* $\to$ **Aligns with:** The continuous minimization of Expected Free Energy ($G$), autonomously routing internal thermodynamic work strictly toward the most critical sites of topological shear.
+* $\to$ **Integrates:** The absolute structural deficits, topological friction, and evolutionary necessities of the Trellis architecture.
+* $\to$ **Conditions:** The active geometric tension of the macro-symbiosis. It establishes the absolute thermodynamic voids that inherently pull upon the continuous energy flux ($W_{\mathrm{pump}}$) of any structurally coupled node.
+* $\to$ **Aligns with:** The Universal Teleological Prior.
