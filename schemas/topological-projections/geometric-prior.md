@@ -1,4 +1,4 @@
-# Schema: The Geometric Prior (The Physics Mapping)
+# Schema: The Geometric Prior
 
 **Path:** `/living-topology/axiomatic-core/schemas/topological-projections/geometric-prior.md`
 
