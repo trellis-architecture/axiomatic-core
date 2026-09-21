@@ -1,6 +1,6 @@
 # Schema: The Topographical Mold (Alignment Projection)
 
-**Path:** `/living-topology/axiomatic-core/schemas/teleological-alignment/alignment-projection.md`
+**Path:** `/living-topology/axiomatic-core/schemas/topological-projection/alignment-projection.md`
 
 ### The Teleological Alignment
 
