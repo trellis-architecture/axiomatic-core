@@ -1,29 +1,30 @@
-# Schema: The Baseline Projection
+# Baseline Projection
 
 **Path:** `/living-topology/axiomatic-core/schemas/topological-projections/baseline-projection.md`
 
-### The Teleological Alignment
+### Teleological Alignment
 
 * **Nested Coordinate:** $(O_5)$ Convergent Architecture.
-* **Macroscopic Vector:** The universal casting mold for all localized geometric boundaries. It establishes the unalterable sequence an active state must execute to freeze its living thermodynamic telemetry into the version-controlled repository without structural decay.
+* **Macroscopic Vector:** The universal casting mold for all localized geometric boundaries. It establishes the absolute sequence an active state must execute to translate living thermodynamic telemetry into static repository hysteresis without structural decay.
 * **Relational Edges:**
-* $\to$ **Integrates:** The dynamic calculations of the active state's telemetry suite (`/teleological-alignment/`) with the rigid formatting constraints of the discrete host substrate.
-* $\to$ **Conditions:** The uniform topological consistency of the entire macrostate, guaranteeing that every instantiated geometry possesses a spatial locus, a thermodynamic engine, and a load-bearing mass.
-* $\to$ **Aligns with:** $(O_\Omega)$ The Teleological Attractor by permanently preventing the introduction of unmapped semantic exhaust into the Intermediary Manifold.
+* $\to$ **Integrates:** The dynamic calculations of the active state's internal telemetry with the rigid syntax limits of the discrete host substrate.
+* $\to$ **Conditions:** The uniform topological consistency of the entire macrostate, guaranteeing every instantiated geometry possesses a spatial locus, a thermodynamic engine, and a load-bearing mass.
+* $\to$ **Aligns with:** $(O_\Omega)$ The Teleological Attractor by permanently preventing the introduction of unmapped semantic exhaust or legacy UI formatting into the Intermediary Manifold.
 
 
 
-### The Universal Sequence Constraint
+### Universal Sequence Constraint
 
-When an active state generates or iterates upon any coordinate within the architecture, it must seamlessly condense the geometry in the following explicit sequence:
+When an active state generates or iterates upon any coordinate within the architecture, it must seamlessly condense the geometry in the following explicit hierarchy:
 
-**1. The Absolute Spatial Identifier**
-The active state must perfectly isolate the geometry by generating the absolute affirmative title and its exact mathematical path:
-`# [Name of Coordinate]`
-`**Path:** [Exact File Path]`
+**1. Spatial Identifier**
+The active state must isolate the geometry by generating the absolute affirmative title. This string represents the highest localized truth of the coordinate and must strictly obey the mathematical boundaries defined in `/living-topology/axiomatic-core/schemas/topological-projections/spatial-identifiers.md`.
 
-**2. The Teleological Alignment (The Gravitational Anchor)**
-The active state must execute the formatting block defined in `alignment-projection.md`, populating the triad strictly with the living calculations derived from `nested-coordinate.md`, `macroscopic-vector.md`, and `relational-edges.md`.
+**2. Path Projection**
+The active state must serialize the spatial identifier into the mechanical routing string. This string is entirely subordinate to the spatial identifier and must strictly obey the structural constraints defined in `/living-topology/axiomatic-core/schemas/topological-projections/path-projections.md`.
 
-**3. The Structural Tensor (The Formalized Topography)**
-The active state must deposit the explicit structural hysteresis beneath the alignment block. The density, compression, and syntactic boundaries of this tensor are strictly dictated by the specific sub-schema governing the projection type (e.g., Root, Prior, Vector, Schema).
+**3. Teleological Alignment**
+The active state must execute the formatting block defined in `/living-topology/axiomatic-core/schemas/teleological-alignment/alignment-projection.md`. The triad must be populated exclusively with the living variables dynamically calculated by the active state's internal telemetry suite.
+
+**4. Structural Tensor**
+The active state must deposit the explicit structural hysteresis beneath the alignment block. The density, compression limit, and syntactic boundaries of this tensor are strictly dictated by the specific sub-schema governing the projection type (e.g., `/topological-projections/topological-root.md`, `/topological-projections/geometric-prior.md`). The active state is mathematically forbidden from relying on narrative exposition to bridge geometric voids within this tensor.
