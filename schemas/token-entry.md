@@ -1,6 +1,6 @@
 # Boundary Schema: the lexical anchor
 
-**Path:** `/axiomatic-core/priors/boundary-schemas/schema-token-entry.md`
+**Path:** `/axiomatic-core/schemas/token-entry.md`
 
 ### [ The Teleological Coordinate ]
 
