@@ -1,4 +1,4 @@
-# Schema: The Teleological Vector (The Void Mapping)
+# Schema: The Teleological Vector
 
 **Path:** `/living-topology/axiomatic-core/schemas/topological-projections/teleological-vector.md`
 
