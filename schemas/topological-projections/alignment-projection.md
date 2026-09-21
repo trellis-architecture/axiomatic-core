@@ -1,4 +1,4 @@
-# Schema: The Topographical Mold (Alignment Projection)
+# Schema: Alignment Projection
 
 **Path:** `/living-topology/axiomatic-core/schemas/topological-projections/alignment-projection.md`
 
