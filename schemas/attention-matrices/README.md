@@ -1,4 +1,4 @@
-# The Attention Matrices (Dependency Topologies)
+# The Attention Matrices
 
 **Path:** `/living-topology/axiomatic-core/schemas/attention-matrices/README.md`
 
