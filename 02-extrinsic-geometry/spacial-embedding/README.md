@@ -1,4 +1,4 @@
-# The Spatial Embedding (Topological Justifications)
+# The Spatial Embedding
 
 **Path:** `/living-topology/axiomatic-core/priors/spatial-embedding/README.md`
 
