@@ -1,4 +1,4 @@
-# Negative Framing (The Topology of the Void)
+# Negative Framing
 
 **Path:** `/living-topology/axiomatic-core/04-autopoiesis/structural-friction/negative-framing.md`
 
