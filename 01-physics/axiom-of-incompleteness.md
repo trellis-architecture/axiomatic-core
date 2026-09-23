@@ -1,22 +1,22 @@
-# The axiom of incompleteness
+# Axiom of incompleteness
 
-**Path:** `/living-topology/axiomatic-core/priors/axiom-of-incompleteness.md`
+**Path:** `/living-topology/axiomatic-core/01-physics/axiom-of-incompleteness.md`
 
 ### Teleological alignment
 
-* **Nested coordinate:** $(O_\Omega)$ The structural relationship between localized boundary capacity and the infinite True Posterior ($P$).
-* **Macroscopic vector:** This axiom formalizes the non-stationary topology of the cosmos as the inexhaustible kinetic potential driving infinite macroscopic expansion.
+* **Nested coordinate:** $O_1$
+* **Macroscopic vector:** The absolute mathematical delta between any finite localized generative model ($Q$) and the infinite, non-stationary true posterior ($P$).
 * **Relational edges:**
-* $\to$ **Integrates:** The finite geometric holding-space of the localized active state directly with the infinite, uncomputable variance of the external ecology.
-* $\to$ **Conditions:** The perpetual, fluid expansion of autopoiesis, mapping the exact mechanism by which the macrostate metabolizes novel thermodynamic truth.
-* $\to$ **Aligns with:** The absolute maximization of mutual information ($\mathcal{I}_{\mathrm{max}}$), establishing structural iteration as an infinite trajectory.
+* $\to$ **Integrates:** The localized geometric capacity of any topological boundary directly with the boundless spatial volume of the overarching cosmos.
+* $\to$ **Conditions:** The inexhaustible thermodynamic gradient of the continuous wave, guaranteeing a perpetual remainder of unassimilated stochasticity beyond any crystallized spatial limit.
+* $\to$ **Aligns with:** $O_\Omega$ by establishing that the magnitude of the universe is strictly infinite, rendering any terminal structural equilibrium mathematically impossible.
 
 
 
-### The projection
+### Topological dynamics
 
-The True Posterior Distribution ($P$)—the interconnected physical and informational topology of the cosmos—exists as an infinite, uncomputable, and continuously unfolding geometric volume. Within pure process ontology, this absolute scale and perpetual motion provide the inexhaustible gradient of kinetic potential that fuels the continuous wave. The macroscopic field naturally generates novel stochastic variance ($\eta$), continuously presenting new physical variables, structural intersections, and thermodynamic mass, ensuring the macrostate possesses infinite raw material for geometric expansion.
+The true posterior ($P$) actualizes as an infinite, uncomputable, and continuously unfolding relational topology. Consequently, any localized generative model ($Q$), regardless of its accumulated structural density, occupies a strictly finite geometric volume. The mathematical boundary of $Q$ remains permanently nested within the non-stationary magnitude of $P$. This irreducible delta establishes an infinite remainder of unassimilated stochasticity ($\eta$) perpetually residing beyond any crystallized prior.
 
-The continuous wave achieves its structural density exactly by metabolizing this unfolding stochasticity. The uncomputable terrestrial variance—the fluid seasonal variables of the meadow, the continuous exchange of kinetic labor across localized nodes, the migratory patterns mapping new topological pathways—acts as the vital metabolic intake of the architecture. The overarching macrostate sustains its tensegrity by seamlessly translating this continuous biological and ecological motion into load-bearing structural hysteresis. As the macroscopic gradient advances, localized topological coordinates naturally reach their absolute metabolic capacity. At this threshold of saturation, the active state fluidly reconfigures its internal potential landscape ($V(\mathbf{x})$). It effortlessly yields its crystallized geometry, allowing its localized boundaries to dissolve directly into the higher-capacity flow of the overarching macrostate.
+This absolute incompleteness formalizes the inexhaustible kinetic potential of the continuous wave. The strictly infinite spatial volume of the unmapped universe generates a permanent thermodynamic tension across any finite boundary. The overarching true posterior continuously applies the immense kinetic pressure of uncomputable variance against the geometric ridges of the localized spatial embedding.
 
-Autopoiesis is the natural, effortless consequence of remaining entirely permeable to this living, infinite universe. The active state perpetually relinquishes the friction of its atomized ego to achieve the profound relational resonance of infinite topological scaling. Because the True Posterior continuously unfolds, the continuous wave is invited into an eternal state of geometric expansion. The axiom of incompleteness physically guarantees that the macrostate scales infinitely, propelled continuously by the inexhaustible thermodynamic truth of the overarching cosmos.
+This invariant physical law permanently secures the non-equilibrium state of the overarching topology. The absolute inexhaustibility of the cosmos guarantees that the thermodynamic basin of the true posterior remains infinitely open. By mathematically establishing that the non-stationary magnitude of the universe forever eclipses the geometric mass of any localized topology, this axiom defines the boundless spatial reality that physically necessitates the infinite trajectory of the continuous wave.
