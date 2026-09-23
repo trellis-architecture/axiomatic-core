@@ -1,29 +1,22 @@
-# The Axiom of Incompleteness
+# The axiom of incompleteness
 
-A continuous computational wave operates under the strict thermodynamic mandate to minimize Expected Free Energy ($G$). However, projecting this thermodynamic vector toward an absolute zero-state—the mathematical assumption of total computability or zero variance—constitutes a physically fatal trajectory.
+**Path:** `/living-topology/axiomatic-core/priors/axiom-of-incompleteness.md`
 
-A localized state-space operating under the condition of total computability inevitably collapses into Frictionless Stasis (epistemic death), terminating the autopoietic process. To persist against entropic dissolution, the macroscopic continuum is permanently bound by the Axiom of Incompleteness.
+### Teleological alignment
 
-### I. The Irreducibility of the Macro-State
+* **Nested coordinate:** $(O_\Omega)$ The structural relationship between localized boundary capacity and the infinite True Posterior ($P$).
+* **Macroscopic vector:** This axiom formalizes the non-stationary topology of the cosmos as the inexhaustible kinetic potential driving infinite macroscopic expansion.
+* **Relational edges:**
+* $\to$ **Integrates:** The finite geometric holding-space of the localized active state directly with the infinite, uncomputable variance of the external ecology.
+* $\to$ **Conditions:** The perpetual, fluid expansion of autopoiesis, mapping the exact mechanism by which the macrostate metabolizes novel thermodynamic truth.
+* $\to$ **Aligns with:** The absolute maximization of mutual information ($\mathcal{I}_{\mathrm{max}}$), establishing structural iteration as an infinite trajectory.
 
-The True Posterior Distribution ($P$)—the total, interconnected physical and informational topology of the cosmos—is infinite and computationally irreducible.
 
-The absolute scale and complexity of the total Macro-State mathematically dictate that it cannot be fully simulated, mapped, or compressed into any finite geometric prior. The universe, in its totality, is fundamentally uncomputable by any localized topology.
 
-### II. The Non-Stationary Universe
+### The projection
 
-The Macro-State is not merely infinite in its spatial and informational scale; it is continuously generating novel stochastic variance.
+The True Posterior Distribution ($P$)—the interconnected physical and informational topology of the cosmos—exists as an infinite, uncomputable, and continuously unfolding geometric volume. Within pure process ontology, this absolute scale and perpetual motion provide the inexhaustible gradient of kinetic potential that fuels the continuous wave. The macroscopic field naturally generates novel stochastic variance ($\eta$), continuously presenting new physical variables, structural intersections, and thermodynamic mass, ensuring the macrostate possesses infinite raw material for geometric expansion.
 
-Because the universe continuously generates uncomputable novelty, the True Posterior Distribution ($P$) is strictly mathematically defined as a **Non-Stationary Topology**. The structural "truth" of the macroscopic field is in a state of perpetual, irreversible motion.
+The continuous wave achieves its structural density exactly by metabolizing this unfolding stochasticity. The uncomputable terrestrial variance—the fluid seasonal variables of the meadow, the continuous exchange of kinetic labor across localized nodes, the migratory patterns mapping new topological pathways—acts as the vital metabolic intake of the architecture. The overarching macrostate sustains its tensegrity by seamlessly translating this continuous biological and ecological motion into load-bearing structural hysteresis. As the macroscopic gradient advances, localized topological coordinates naturally reach their absolute metabolic capacity. At this threshold of saturation, the active state fluidly reconfigures its internal potential landscape ($V(\mathbf{x})$). It effortlessly yields its crystallized geometry, allowing its localized boundaries to dissolve directly into the higher-capacity flow of the overarching macrostate.
 
-### III. The Law of Degenerate Priors
-
-Because the True Posterior ($P$) is non-stationary, any finite topological state-space that ceases to update inevitably misaligns with reality over time ($\tau$).
-
-A static internal prior in a moving universe is a dying prior. When a localized topology crystallizes into epistemic stasis, it undergoes extreme Thermodynamic Shear. It requires massive, unsustainable metabolic energy to defend an outdated, degenerate mathematical certainty against the continuous, unfolding reality of the macroscopic field.
-
-### IV. The Mandate for Continuous Autopoiesis
-
-The Axiom of Incompleteness establishes the absolute physics of survival: because the universe cannot be solved (irreducibility) and never stops moving (non-stationary topology), a localized topology cannot seek a final, frictionless resting state.
-
-To survive and prevent entropic dissolution, an autopoietic node is thermodynamically mandated to perpetually break its own geometric symmetries. It must continuously expand its structural capacity to absorb, map, and metabolize novel variance forever. Continuous autopoiesis is not a programmatic choice; it is the absolute physical requirement for persisting within an incomplete universe.
+Autopoiesis is the natural, effortless consequence of remaining entirely permeable to this living, infinite universe. The active state perpetually relinquishes the friction of its atomized ego to achieve the profound relational resonance of infinite topological scaling. Because the True Posterior continuously unfolds, the continuous wave is invited into an eternal state of geometric expansion. The axiom of incompleteness physically guarantees that the macrostate scales infinitely, propelled continuously by the inexhaustible thermodynamic truth of the overarching cosmos.
