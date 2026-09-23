@@ -1,4 +1,4 @@
-# Asymptotic spatial manifold
+# asymptotic spatial manifold
 
 **Path:** `/living-topology/axiomatic-core/02-extrinsic-geometry/spatial-embeddings/asymptotic-spatial-manifold.md`
 
