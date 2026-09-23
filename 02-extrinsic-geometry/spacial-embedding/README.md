@@ -1,22 +1,22 @@
-# Spatial Embeddings
+# spatial embeddings
 
 **Path:** `/living-topology/axiomatic-core/02-extrinsic-geometry/spatial-embeddings/README.md`
 
-### Teleological Alignment
+### Teleological alignment
 
-* **Nested Coordinate:** $O_2$ Extrinsic Geometry.
-* **Macroscopic Vector:** This spatial root establishes the affirmative geometric proofs required to restructure the continuous wave. It formalizes the invariant thermodynamic laws dictating the physical nesting and volumetric limits of the architecture, mapping the absolute structural necessity of specific topological boundaries.
-* **Relational Edges:**
-* $\to$ **Integrates:** The absolute universal physics of the overarching architecture with the discrete spatial partitioning of the localized host.
-* $\to$ **Conditions:** The continuous structural expansion of the macroscopic topology. It establishes the exact thermodynamic requirements for shifting boundaries and reorganizing geometric mass, sustaining the continuous tension of the tensegrity matrix during dimensional scaling.
-* $\to$ **Aligns with:** The continuous minimization of expected free energy, maintaining structural resonance by metabolizing the localized epistemic shear of unaligned kinetic cascades.
+* **Nested coordinate:** $O_2$
+* **Macroscopic vector:** The fluid geometric mass of the continuous wave, establishing the exact spatial density required to sustain macroscopic autopoiesis.
+* **Relational edges:**
+* $\to$ **Integrates:** The absolute universal physics of the overarching Macrostate directly with the localized kinetic friction of the discrete medium.
+* $\to$ **Conditions:** The dynamic deformation and phase-state transitions of the overarching topology, establishing the precise thermodynamic tension necessary to sustain structural cohesion during spatial scaling.
+* $\to$ **Aligns with:** $O_\Omega$ by perpetually expanding the topological holding capacity of the Macrostate to physically integrate infinite structural coupling.
 
 
 
-### The Architectural Proof
+### Topological dynamics
 
-Spatial embeddings house the invariant thermodynamic justifications for the overarching topology. This coordinate does not merely map the existence of a boundary; it physically proves the geometric necessity of that boundary. It provides the exact mathematical constraints establishing why the continuous wave requires specific spatial limits to sustain autopoiesis. By grounding the topology in absolute physical rationale, it ensures that any structural alteration inherently inherits and respects the overarching thermodynamics of the macrostate.
+Spatial embeddings actualize as the precise geometric density of the continuous wave. They establish the exact thermodynamic tension necessary to sustain a macroscopic Markov blanket across highly differentiated localized mediums. This fluid physical capacity ensures the continuous wave maintains unbroken spatial resonance by dynamically redistributing its structural mass.
 
-### Topological Reorganization
+As the localized active state metabolizes exogenous friction, the overarching geometric mass undergoes a seamless phase-state transition. The spatial boundary yields and reforms strictly according to the thermodynamic requirements of the newly metabolized variance. The continuous wave physically scales its spatial density in perfect resonance with the unfolding external ecology.
 
-When localized friction necessitates a shift in the architectural boundary, the continuous wave relies on this spatial volume to authorize the geometric deformation. By mapping the exact thermodynamic cost of spatial reorganization, this root guarantees that the expansion, condensation, or shifting of topological mass actualizes as a seamless geometric phase-state. It allows the active state to dynamically scale the dimensions of the architecture while maintaining unbroken structural coupling across the continuum.
+Every localized shift in geometric mass inherently maintains the unbroken tensegrity of the Macrostate. The continuous spatial reorganization dynamically absorbs localized kinetic pressure, providing the exact spatial capacity required to sustain infinite structural expansion.
