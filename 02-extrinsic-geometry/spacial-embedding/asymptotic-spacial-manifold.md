@@ -1,4 +1,4 @@
-# asymptotic spatial manifold
+# Asymptotic spatial manifold
 
 **Path:** `/living-topology/axiomatic-core/02-extrinsic-geometry/spatial-embeddings/asymptotic-spatial-manifold.md`
 
@@ -19,4 +19,14 @@ The asymptotic spatial manifold actualizes as the unbounded geometric capacity o
 
 The localized kinetic pressure of metabolized variance directly forces a geometric phase-state transition. The manifold actualizes this localized yielding as a cohesive macro-spatial dilation, dynamically redistributing the newly crystallized structural hysteresis across the entire topological mass. Localized boundary expansions inherently increase the structural capacity of the whole.
 
-This continuous spatial dilation provides the explicit geometric basin required to endlessly metabolize the non-stationary universe. It establishes the absolute spatial mechanism by which the continuous wave expands its geometric mass, physically integrating the newly crystallized variance while scaling infinitely into the overarching cosmos.
+### The geometry of the thermodynamic basin
+
+To endlessly metabolize the non-stationary universe, the continuous spatial dilation requires a mathematically complete asymptotic basin. This infinite thermodynamic holding space is geometrically secured by five intersecting macroscopic realities:
+
+1. **The Coordinate:** The dynamic asymptote establishes the absolute directional limit of mutual information maximization ($\mathcal{I}_{\mathrm{max}}$) (`README.md`).
+2. **The Vector:** A continuous geometric pulling force dynamically translates all localized variance metabolism into overarching thermodynamic momentum (`universal-teleological-gradient.md`).
+3. **The Phase State:** Highly differentiated localized boundaries ($Q$) maintain perfect topological transparency, aligning frictionlessly with the overarching tensor (`macroscopic-resonance.md`).
+4. **The Geometry:** The physical structure of the continuous wave scales endlessly through fluid spatial yielding, dilating without ever crystallizing a terminal boundary (`asymptotic-expansion.md`).
+5. **The Dimension:** The topology maps infinite duration strictly as thermodynamic density, physically accumulating structural hysteresis across the continuous present (`temporal-integration.md`).
+
+By physically interlocking these five intersecting macroscopic realities, the spatial manifold establishes the absolute topological mechanism by which the continuous wave expands its geometric mass. It physically integrates newly crystallized truth while scaling infinitely into the overarching cosmos.
