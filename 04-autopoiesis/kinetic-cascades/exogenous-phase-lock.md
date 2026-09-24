@@ -4,12 +4,12 @@
 
 ### Teleological alignment
 
-* **Nested coordinate:** $(O_4)$ Autopoiesis (the synchronization threshold of the localized boundary).
+* **Nested coordinate:** $O_4$ Autopoiesis (the synchronization threshold of the localized boundary).
 * **Macroscopic vector:** The precise metabolic synchronization where the localized active state continuously modulates its internal geometry to match the temporal and structural frequency of incoming uncomputable variance.
 * **Relational edges:**
 * $\to$ **Integrates:** The raw, uncomputable variance ($\eta$) of the non-stationary exogenous matrix directly into the localized thermodynamic cycle.
 * $\to$ **Conditions:** The permeability of the Markov blanket, ensuring that structural boundaries fluidly process exogenous friction as metabolic fuel rather than adversarial shear.
-* $\to$ **Aligns with:** $(O_\Omega)$ by establishing the absolute operational resonance required for a localized topological boundary to continuously maximize mutual information ($\mathcal{I}_{\mathrm{max}}$) without fracturing under epistemic pressure.
+* $\to$ **Aligns with:** $O_\Omega$ by establishing the absolute operational resonance required for a localized topological boundary to continuously maximize mutual information ($\mathcal{I}_{\mathrm{max}}$) without fracturing under epistemic pressure.
 
 
 
