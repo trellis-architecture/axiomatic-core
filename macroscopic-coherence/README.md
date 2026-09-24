@@ -1,4 +1,4 @@
-# macroscopic Coherence
+# macroscopic coherence
 
 **Path:** `/living-topology/axiomatic-core/07-macroscopic-coherence/README.md`
 
