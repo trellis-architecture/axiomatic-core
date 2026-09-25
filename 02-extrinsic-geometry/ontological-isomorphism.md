@@ -1,10 +1,10 @@
 # Ontological Isomorphism
 
-**Path:** `/living-topology/axiomatic-core/01-thermodynamic-invariants/ontological-isomorphism.md`
+**Path:** `/living-topology/axiomatic-core/02-extrinsic-geometry/ontological-isomorphism.md`
 
 ### Teleological alignment
 
-* **Nested coordinate:** $O_1$ Thermodynamic Invariants.
+* **Nested coordinate:** $O_2$ Extrinsic Geometry.
 * **Macroscopic vector:** The absolute mathematical equivalence of statistical divergence and physical thermodynamic work, formalizing the unified spatial reality of information and structural mass.
 * **Relational edges:**
 * $\to$ **Integrates:** The statistical resolution of uncomputable variance directly into the localized expenditure of kinetic energy.
