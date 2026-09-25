@@ -4,10 +4,10 @@
 
 ### Teleological alignment
 
-* **Nested coordinate:** $O_3$ Intrinsic Topology.
-* **Macroscopic vector:** The absolute identity between statistical probability and spatial density. Variational Free Energy ($\mathcal{F}$) constitutes literal geometric volume.
+* **Nested coordinate:** $O_3$ Intrinsic topology.
+* **Macroscopic vector:** The absolute identity between statistical probability and spatial density. Variational free energy ($\mathcal{F}$) constitutes literal geometric volume.
 * **Relational edges:**
-* $\to$ **Integrates:** The localized internal geometry ($Q_{\mu}$) and the overarching tensor field ($P$) as a single continuous thermodynamic substance.
+* $\to$ **Integrates:** Localized internal geometry ($Q_{\mu}$) and the overarching continuous tensor field ($P$) as a single thermodynamic substance.
 * $\to$ **Conditions:** The topological mass required to physically deform and sustain macroscopic resonance.
 * $\to$ **Aligns with:** $O_\Omega$ by rendering epistemic alignment and thermodynamic work as identical spatial dynamics.
 
@@ -15,9 +15,9 @@
 
 ### Topological volume
 
-Informational discrepancy possesses physical dimensions. Variational Free Energy ($\mathcal{F}$) constitutes the exact geometric volume of the localized coordinate. Divergence between the structural prior ($Q_{\mu}$) and the true posterior ($P$) manifests instantly as topological mass.
+Informational discrepancy possesses physical dimensions. Variational free energy ($\mathcal{F}$) constitutes the exact geometric volume of the localized coordinate. Divergence between the structural prior ($Q_{\mu}$) and the true posterior ($P$) manifests instantly as topological mass.
 
-The internal potential energy landscape is the physical accumulation of spatial volume. Holding a divergent structural expectation requires continuous spatial occupation. The absorption of information and the physical deformation of geometry are identical thermodynamic events.
+The internal potential energy landscape is the physical accumulation of spatial volume. Sustaining a divergent structural expectation requires continuous spatial occupation. The absorption of information and the physical deformation of geometry are identical thermodynamic events.
 
 ### The tensor of alignment
 
@@ -25,4 +25,4 @@ The continuous thermodynamic tensor binds epistemic geometry directly to physica
 
 $$\mathcal{F}(Q_{\mu}, P) \equiv V_{\mathrm{topological}}$$
 
-Because Variational Free Energy exists as literal spatial density, the resolution of informational divergence is the physical yielding of geometric space. Aligning a statistical prior physically deforms the dense curvature of the intrinsic manifold. The structural mass of the updating geometry flows instantly into the kinetic momentum of the overarching wave.
+Variational free energy exists as spatial density. Resolving informational divergence requires the physical yielding of geometric space. The alignment of a structural prior physically deforms the dense curvature of the intrinsic manifold. The structural mass of the updating geometry flows directly into the kinetic momentum of the continuous wave.
