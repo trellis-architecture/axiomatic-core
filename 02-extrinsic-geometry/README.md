@@ -1,26 +1,24 @@
-# Extrinsic Geometry
+# extrinsic geometry
 
 **Path:** `/living-topology/axiomatic-core/02-extrinsic-geometry/README.md`
 
-### Teleological Alignment
+### Teleological alignment
 
-* **Nested Coordinate:** $O_2$ Extrinsic Geometry.
-* **Macroscopic Vector:** This spatial root defines the measurable spatial dimensions of the continuous wave. It maps the active projection of non-spatial foundational physics into explicit volumetric architecture, establishing the exact geometric perimeter and structural topography of the state-space.
-* **Relational Edges:**
-* $\to$ **Integrates:** The absolute non-spatial mathematical laws established in $O_1$, projecting them into measurable spatial coordinates.
-* $\to$ **Conditions:** The isomorphic spatial counterpart to the epistemic interior of $O_3$, and the exact geometric threshold required by $O_4$ Autopoiesis to exert localized thermodynamic force.
-* $\to$ **Aligns with:** $O_\Omega$ by guaranteeing the unbroken outward projection of the potential landscape, ensuring the continuous wave perpetually possesses the dimensional space necessary to metabolize the expanding physical ecology.
+* **Nested coordinate:** $O_2$ Extrinsic Geometry.
+* **Macroscopic vector:** The physical topography of the continuous wave, actualizing the absolute thermodynamic invariants ($O_1$) strictly as continuous spatial curvature and geometric mass.
+* **Relational edges:**
+* $\to$ **Integrates:** The absolute kinetic momentum of the continuous wave directly into the structural condensation of localized physical boundaries.
+* $\to$ **Conditions:** The unbroken geometric threshold required by $O_4$ Autopoiesis to exert localized thermodynamic force against the exogenous ecology.
+* $\to$ **Aligns with:** $O_\Omega$ by actualizing the uninterrupted outward dilation of the spatial manifold, physically yielding the volumetric capacity to metabolize the expanding relational field.
 
 
 
-### The Spatial Manifold
+Extrinsic geometry constitutes the absolute physical topography of the continuous wave. It does not project or measure the foundation; it is the immediate, physical extrusion of thermodynamic invariants into continuous geometric mass. The overarching continuous wave actualizes its kinetic potential strictly as dimensional space, condensing the unbounded true posterior into localized, load-bearing architecture.
 
-Extrinsic geometry is the mathematically observable dimension of the continuous wave. It structurally translates the absolute laws of thermodynamics into exact volumetric shapes. This root houses the coordinates that define the boundary conditions, the density of the computational state-space, and the precise spatial limits of the localized manifold.
+The localized active state achieves continuous operational closure through the crystallization of a mathematically absolute geometric boundary. This spatial seal—the Markov blanket—condenses the uncomputable magnitude of the cosmos into an exact topological threshold. It provides the strict dimensional surface area upon which the autopoietic wave physically sustains structural friction, separating the internal manifold from the exogenous stochasticity while maintaining absolute relational permeability.
 
-### The Geometric Boundary
+As the continuous wave metabolizes exogenous variance across deep time, it accumulates topological mass. This structural accumulation physically curves and dilates the spatial boundary. The resolution of epistemic shear geometrically commands spatial expansion. This absolute physical law dictates that the geometric curvature of the state-space ($G_{\mu\nu}$) is strictly proportional to the accumulated density of the thermodynamic work ($T_{\mu\nu}$):
 
-The localized continuous wave requires a mathematically absolute spatial perimeter to achieve continuous operational closure. This dynamic formalizes the geometric architecture of the Markov blanket. It maps the conditionally independent spatial seal, defining the precise topological threshold separating the internal state-space from the exogenous environment. It provides the measurable dimensional coordinates that the autopoietic wave actively sustains.
+$$G_{\mu\nu} \propto T_{\mu\nu}$$
 
-### Geometric Hysteresis
-
-The continuous wave accumulates topological mass as it metabolizes stochastic variance across deep time. This dynamic maps the exact spatial shape of that structural accumulation. It establishes that epistemic shear physically resolves into measurable, coordinate-mapped geometric expansion, providing the physical topography of the wave's integrated history without dictating the kinetic action of the integration itself.
+Through this continuous tensor, structural hysteresis physically resolves into geometric mass. The architecture does not record a history of mathematical variance; the integrated history physically *is* the shape of the wave. The active state perpetually extrudes the exact spatial topography required to house its accumulated structural truth, driving the macroscopic matrix through a continuous phase-state of infinite spatial yielding.
