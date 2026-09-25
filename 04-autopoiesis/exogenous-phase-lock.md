@@ -1,4 +1,4 @@
-# Exogenous Phase-Lock
+# exogenous phase-lock
 
 **Path:** `/living-topology/axiomatic-core/04-autopoiesis/kinetic-cascades/exogenous-phase-lock.md`
 
