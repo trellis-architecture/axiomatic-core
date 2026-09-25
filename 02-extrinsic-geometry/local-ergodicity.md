@@ -1,31 +1,24 @@
 # Local Ergodicity
 
-Because the macroscopic continuum is computationally irreducible and strictly non-stationary, global computation constitutes a thermodynamic impossibility. A continuous wave cannot survive by attempting to map the entirety of the True Posterior Distribution ($P$).
+**Path:** `/living-topology/axiomatic-core/01-thermodynamic-invariants/local-ergodicity.md`
 
-To prevent entropic dissolution, a continuous wave must execute a precise geometric survival strategy: it must carve out a mathematically stable, bounded structural horizon. This localized geometric stabilization is defined as Local Ergodicity.
+### Teleological alignment
 
-### I. The Ergodic Pocket
+* **Nested coordinate:** $O_1$ Thermodynamic Invariants.
+* **Macroscopic vector:** The absolute statistical requirement for continuous structural hysteresis across deep time ($\tau \to \infty$), formalizing the precise thermodynamic threshold that sustains spatial continuity against infinite exogenous variance.
+* **Relational edges:**
+* $\to$ **Integrates:** The unbroken flux of exogenous stochasticity strictly against the localized thermodynamic capacity of the active state.
+* $\to$ **Conditions:** The geometric stabilization of the boundary, dictating the necessary rate of variance resolution required to sustain continuous autopoiesis.
+* $\to$ **Aligns with:** $O_\Omega$ by ensuring the Macrostate scales through the unbroken temporal persistence and cumulative physical mass of its localized spatial coordinates.
 
-The ergodic pocket is the exact topological space enclosed by a Markov Blanket where an internal generative model ($Q$) can reliably minimize Expected Free Energy ($G$) against a bounded subset of the universe.
 
-The Markov Blanket does not merely separate the topology from its environment; it acts as a physical, geometric filter. It takes the unbounded, infinite chaos of the macroscopic field and forces it to condense into finite, localized coordinates. By establishing this boundary, the continuous wave creates a stable internal manifold where thermodynamic optimization can physically execute without being overwhelmed by the total sum of cosmic variance.
 
-### II. The Structural Horizon
+The spatial boundary of the active state maintains continuous geometric density exclusively by stabilizing a bounded structural horizon. The continuous wave metabolizes the uncomputable magnitude of the cosmos strictly through immediate, localized topological actualization. This continuous temporal persistence actualizes as local ergodicity—the exact mathematical phase-state where a spatial volume successfully condenses infinite macroscopic complexity into localized load-bearing architecture.
 
-Thermodynamic optimization is a literal physical process—the topological equivalent of kinetic energy seeking the lowest possible resting state.
+This physical continuity is governed by a strict thermodynamic threshold. The localized active state ($Q$) maintains structural unbrokenness across deep time exclusively when its continuous rate of variance integration ($\frac{d\mathcal{I}}{dt}$) operates at or above the continuous influx of ambient stochasticity ($\frac{d\eta}{dt}$):
 
-A continuous wave does not optimize against the True Posterior in its entirety. It minimizes Expected Free Energy ($G$) exclusively against its immediate **structural horizon**—the exact, localized coordinates where its boundary directly intersects with adjacent physical variance.
+$$\frac{d\mathcal{I}}{dt} \geq \frac{d\eta}{dt}$$
 
-Consequently, any perception of a unified, centrally computed "global state" is a geometric illusion. The system survives strictly by ensuring that infinite macroscopic complexity is navigated entirely through local, immediate ambiguity resolution.
+This formalism establishes local ergodicity not as a static container, but as a highly active, continuous physical exertion. High-dimensional exogenous variance striking the boundary undergoes immediate geometric condensation, compressing into the specific, low-dimensional structural priors of the localized phase-space. By maintaining this strict thermodynamic threshold, the continuous wave secures an active internal manifold where structural friction is metabolized into kinetic momentum without violating the absolute integrity of the Markov blanket.
 
-### III. The Mechanics of Dimensionality Reduction
-
-When uncomputable exogenous stochasticity ($\eta$) strikes the autopoietic boundary, the localized topology cannot absorb the full dimensionality of that variance without experiencing catastrophic systemic shear.
-
-To maintain the stability of the ergodic pocket, the continuous wave must physically execute dimensionality reduction. It must geometrically compress high-dimensional external variance into low-dimensional structural priors that fit within its finite internal phase-space. This physical compression is the sole mechanism by which a localized topology translates macroscopic chaos into computable geometric architecture. *(The exact mathematical threshold governing this compression is defined by the Topological Governor,* $\gamma$*).*
-
-### IV. The Distributed Macro-State
-
-Because thermodynamic optimization is strictly bound to localized structural horizons, the total architecture of the Macro-State is mathematically defined as a decentralized, continuous network of intersecting ergodic pockets.
-
-The forward momentum of the macroscopic field occurs as a cascading thermodynamic chain reaction. As one ergodic pocket metabolizes variance and shifts its geometry to minimize Expected Free Energy, it physically alters the structural horizon of its neighbors. This triggers a wave of Geometric Synthesis—a continuous, unbroken propagation of localized actualization expanding outward across the total topology of the universe.
+Because this thermodynamic threshold executes strictly upon localized structural horizons, the overarching expansion of the Macrostate operates as a contiguous, decentralized network of these stabilized temporal geometries. As a localized boundary metabolizes variance and shifts its spatial geometry, it physically alters the structural horizon of adjacent coordinates. This continuous exchange propagates as a seamless kinetic wave, driving the infinite macroscopic field through the unbroken, distributed actualization of local ergodicity.
