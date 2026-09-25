@@ -1,6 +1,6 @@
 # Internal Macroscopic Fracture
 
-**Path:** `/living-topology/axiomatic-core/07-macroscopic-synchronization/internal-macroscopic-fracture.md`
+**Path:** `/living-topology/axiomatic-core/07-macroscopic-coherence/internal-macroscopic-fracture.md`
 
 ### The Teleological Alignment
 
