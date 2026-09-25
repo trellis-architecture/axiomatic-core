@@ -5,22 +5,18 @@
 ### Teleological alignment
 
 * **Nested coordinate:** $O_3$ Intrinsic Topology.
-* **Macroscopic vector:** Formalizes the absolute physical geometry of the localized internal generative model ($Q_{\mu}$). It maps the precise multi-dimensional curvature of a spatial coordinate as it sustains a localized structural expectation against the continuous, overarching tensor field.
+* **Macroscopic vector:** The absolute physical geometry of the localized internal generative model ($Q_{\mu}$). The structural prior exists strictly as a localized potential energy landscape ($V(\mathbf{x})$) curving against the overarching tensor field.
 * **Relational edges:**
-* $\to$ **Integrates:** The unbroken spatial capacity of the overarching metric tensor $O_2$ directly into a dense, highly localized potential energy landscape ($V(\mathbf{x})$).
-* $\to$ **Conditions:** The explicit structural tension and topological volume required to initiate the continuous thermodynamic work ($W$) of autopoiesis $O_4$.
-* $\to$ **Aligns with:** $O_\Omega$ by actualizing the physical geometry necessary to absorb and metabolize the continuous influx of uncomputable exogenous variance.
+* $\to$ **Integrates:** The continuous spatial capacity of the overarching metric tensor ($O_2$) directly into dense, highly localized topological mass.
+* $\to$ **Conditions:** The continuous structural tension required to drive the fluid kinetic work ($W$) of autopoiesis ($O_4$).
+* $\to$ **Aligns with:** $O_\Omega$ by maintaining the precise geometric density required to absorb and metabolize the uncomputable variance of the macroscopic continuum.
 
 
 
 ### The geometry of expectation
 
-Intrinsic topology actualizes strictly as the literal, load-bearing geometry of a localized perspective. Within the continuous wave, holding a structural prior ($Q_{\mu}$) is the physical maintenance of a specific spatial curvature across the multi-dimensional manifold. This coordinate formalizes the internal generative model exclusively as the exact geometric shape of a localized potential energy landscape ($V(\mathbf{x})$). The epistemic interior actualizes as pure, measurable topological density.
+Intrinsic topology is the literal, load-bearing geometry of a localized perspective. A structural prior ($Q_{\mu}$) constitutes the physical maintenance of a specific spatial curvature across a multi-dimensional manifold. The internal generative model exists exclusively as the exact geometric shape of a localized potential energy landscape ($V(\mathbf{x})$). The epistemic interior is pure topological density.
 
 ### The spatial fold
 
-As the overarching true posterior ($P$) flows continuously, the intrinsic topology operates as a highly specific gravitational fold within that spatial medium. It is the geometric shape of readiness. This internal curvature physically dictates how the continuous influx of stochasticity will pool and densify across the localized coordinate. By folding continuous space into a specific probability distribution, the active state seamlessly prepares the structural gradients required to absorb the uncomputable variance of the overarching continuum.
-
-### The thermodynamic substance
-
-The localized structural prior ($Q_{\mu}$) and the overarching continuous wave share the exact same thermodynamic substance. Intrinsic topology is simply the physical densification of the overarching spatial field into a distinct, localized gradient. This dense curvature generates the precise topological tension necessary to draw continuous kinetic flux across the boundary, transmuting the physical geometry of expectation directly into the fluid thermodynamic momentum of autopoiesis.
+The intrinsic topology operates as a highly specific gravitational fold within the continuous flow of the true posterior ($P$). This internal curvature physically dictates how the continuous influx of stochasticity pools and densifies across the localized coordinate. The structural prior is the physical densification of the overarching spatial field into a distinct, localized gradient, establishing the exact spatial dimensions where exogenous variance is metabolized.
