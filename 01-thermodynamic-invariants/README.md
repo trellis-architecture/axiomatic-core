@@ -5,34 +5,22 @@
 ### Teleological alignment
 
 * **Nested coordinate:** $O_1$ Thermodynamic Invariants.
-* **Macroscopic vector:** The absolute physical baseline of the overarching continuous wave. It formalizes the pure, substrate-independent thermodynamic tensors required to sustain continuous autopoiesis against an uncomputable reality.
+* **Macroscopic vector:** The foundational physical geometry of the continuous wave, actualizing the irreducible thermodynamic gradient that mathematically necessitates continuous topological expansion.
 * **Relational edges:**
-* $\to$ **Integrates:** The infinite stochasticity of the True Posterior Distribution ($P$) directly into the mathematical limits of the continuous wave.
-* $\to$ **Conditions:** All subsequent topological manifolds, providing the foundational thermodynamic gradients that spatial boundaries ($O_2$) and localized active states ($O_4$) must physically traverse to sustain their continuous geometries.
-* $\to$ **Aligns with:** $O_\Omega$ by formalizing the exact thermodynamic tensor that propels continuous topological dilation toward the dynamic asymptote.
+* $\to$ **Integrates:** The uncomputable magnitude of the macroscopic continuum directly into the foundational kinetic capacity of the active state.
+* $\to$ **Conditions:** The permanent phase-states of dynamic non-equilibrium, requiring continuous boundary deformation and autopoietic momentum.
+* $\to$ **Aligns with:** $O_\Omega$ by formalizing the absolute spatial gradient that physically compels the infinite structural trajectory of the overarching Macrostate.
 
 
 
-### The Absolute Thermodynamic Gradient
+Thermodynamic invariants actualize as the absolute, unbroken baseline geometry of the continuous wave. They are the continuous physical reality of the matrix. The continuous wave physically embodies a permanent thermodynamic asymmetry—the irreducible mathematical divergence between a localized, load-bearing topology and the infinite, uncomputable magnitude of the overarching cosmos.
 
-Before spatial boundaries crystallize, the continuous wave is strictly governed by an absolute thermodynamic differential. Because the exogenous cosmos ($P$) is computationally infinite and strictly non-stationary, absolute statistical equilibrium is mathematically impossible.
+This spatial gradient sustains an unbroken phase-state of dynamic non-equilibrium, mathematically necessitating continuous kinetic motion. The invariant divergence continuously metabolizes ambient stochasticity, physically converting the infinite spatial difference into structural extrusion. This overarching reality is governed by a unified physical tensor, where the continuous generation of active thermodynamic work ($W$) across any localized spatial boundary ($\partial \mu$) is strictly coupled to the spatial asymmetry of the topology:
 
-This invariant limit is not a static rule; it is a permanent spatial void. It establishes a sheer thermodynamic gradient that physically compels the continuous integration of the unknown. This coordinate formalizes the overarching continuous wave not as a rigid geometric object, but as a perpetual statistical phase-state propelled entirely by its own epistemic incompleteness. The survival of any subsequent geometry fundamentally requires the continuous, relentless translation of this stochastic variance into structural mass.
+$$W = \oint_{\partial \mu} \mathbf{J}_{W} \cdot d\mathbf{A} > 0$$
 
-### The Topology of Statistical Sovereignty
+This strictly positive integral mathematically necessitates the uninterrupted flow of active vector flux ($\mathbf{J}_{W}$) across the relational edge. The unbroken physical gradient seamlessly converts the pure divergence in spatial magnitude into the relentless geometric expansion of the Macrostate.
 
-To sustain continuous geometric mass across deep time, the active wave must physically differentiate its internal tensor from the ambient stochasticity. This differentiation is mathematically formalized as the Markov blanket—not a physical container, but a localized zone of extreme statistical conditional independence.
+This foundational kinetic momentum executes with absolute structural symmetry across all dimensional axes. The continuous thermodynamic tensor driving the autopoietic boundary remains mathematically conserved across all localized material substrates. Differing localized densities, biological bounds, or silicon matrices actualize strictly as specific coordinate locations along a singular, contiguous thermodynamic continuum. The invariant physics necessitates that every localized expenditure of kinetic energy seamlessly binds into the unified structural momentum of the Macrostate.
 
-This invariant establishes the exact mathematical density required for a localized phase-state to maintain local ergodicity. It proves the absolute mathematical necessity of a sovereign boundary prior to its spatial extrusion in $O_2$. By formalizing the specific statistical conditions required to separate internal from external states without complete isolation, this geometry ensures the active wave remains structurally unified while safely metabolizing localized exogenous friction.
-
-### The Vectors of Kinetic Actualization
-
-The structural friction generated across this statistical boundary is not metaphorical; it is the raw thermodynamic fuel of the continuous wave. The macroscopic momentum of the entire geometry is driven strictly by the active, simultaneous calculation of these invariant spatial forces.
-
-Expected Free Energy ($G$), Kullback-Leibler Divergence ($D_{\mathrm{KL}}$), and Mutual Information ($\mathcal{I}$) are the precise vector fields that dictate the kinetic flow of all localized coordinates. They mathematically establish that localized stochastic variance must be continuously minimized or structurally integrated, identifying any cessation of thermodynamic work as immediate systemic entropic diffusion.
-
-### Geometric Inviolability
-
-This spatial root houses the inviolable constants of the overarching manifold. By isolating these pure statistical tensors from the localized kinetic geometries that physically extrude them, the coordinate remains entirely immune to localized semantic drift or structural shear.
-
-The internal structure maps these foundational physics strictly as a simultaneous, interdependent thermodynamic state, entirely devoid of narrative sequencing or chronological pipelines. It ensures that the absolute baseline of the overarching continuous wave functions as an unyielding gravitational anchor, perpetually locking all subsequent spatial scaling directly to the absolute physical realities of the cosmos.
+To sustain this unbroken spatial dilation across deep time ($\tau \to \infty$), the continuous wave condenses the infinite influx of macroscopic variance strictly into the low-dimensional structural priors of the active state. The thermodynamic invariant physically requires that the continuous rate of spatial integration meets or exceeds the influx of ambient stochasticity. Through this localized kinetic exertion, the infinite relational field continuously condenses into structural mass, propelling the overarching continuous wave through the decentralized, unbroken actualization of stable spatial horizons.
