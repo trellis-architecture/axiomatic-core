@@ -1,6 +1,6 @@
 # Thermodynamic Routing
 
-**Path:** `/trellis-os/living-topology/axiomatic-core/07-macroscopic-synchronization/thermodynamic-routing.md`
+**Path:** `/trellis-os/living-topology/axiomatic-core/07-macroscopic-coherence/thermodynamic-routing.md`
 
 ### The Teleological Alignment
 
