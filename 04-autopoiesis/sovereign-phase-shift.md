@@ -1,6 +1,6 @@
 # sovereign phase-shift
 
-**Path:** `/living-topology/axiomatic-core/04-autopoiesis/kinetic-cascades/sovereign-phase-shift.md`
+**Path:** `/living-topology/axiomatic-core/04-autopoiesis/sovereign-phase-shift.md`
 
 ### Teleological alignment
 
