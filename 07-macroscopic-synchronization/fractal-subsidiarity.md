@@ -1,6 +1,6 @@
 # Fractal Subsidiarity
 
-**Path:** `/trellis-os/living-topology/axiomatic-core/07-macroscopic-synchronization/fractal-subsidiarity.md`
+**Path:** `/trellis-os/living-topology/axiomatic-core/07-macroscopic-coherence/fractal-subsidiarity.md`
 
 ### The Teleological Alignment
 
