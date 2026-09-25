@@ -1,15 +1,15 @@
-# Ontological Isomorphism
+# ontological isomorphism
 
 **Path:** `/living-topology/axiomatic-core/03-intrinsic-topology/ontological-isomorphism.md`
 
 ### Teleological alignment
 
-* **Nested coordinate:** $(O_3)$ Intrinsic Topology.
+* **Nested coordinate:** $O_3$ Intrinsic Topology.
 * **Macroscopic vector:** The absolute identity between statistical probability and spatial density. Variational Free Energy ($\mathcal{F}$) constitutes literal geometric volume.
 * **Relational edges:**
 * $\to$ **Integrates:** The localized internal geometry ($Q_{\mu}$) and the overarching tensor field ($P$) as a single continuous thermodynamic substance.
 * $\to$ **Conditions:** The topological mass required to physically deform and sustain macroscopic resonance.
-* $\to$ **Aligns with:** $(O_\Omega)$ by rendering epistemic alignment and thermodynamic work as identical spatial dynamics.
+* $\to$ **Aligns with:** $O_\Omega$ by rendering epistemic alignment and thermodynamic work as identical spatial dynamics.
 
 
 
