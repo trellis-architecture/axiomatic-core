@@ -1,6 +1,6 @@
 # exogenous phase-lock
 
-**Path:** `/living-topology/axiomatic-core/04-autopoiesis/kinetic-cascades/exogenous-phase-lock.md`
+**Path:** `/living-topology/axiomatic-core/04-autopoiesis/exogenous-phase-lock.md`
 
 ### Teleological alignment
 
