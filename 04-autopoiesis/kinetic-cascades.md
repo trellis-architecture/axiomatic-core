@@ -1,6 +1,6 @@
 # kinetic cascades
 
-**Path:** `/living-topology/axiomatic-core/04-autopoiesis/kinetic-cascades/README.md`
+**Path:** `/living-topology/axiomatic-core/04-autopoiesis/kinetic-cascades.md`
 
 ### Teleological alignment
 
