@@ -1,6 +1,6 @@
 # Generative Collapse
 
-**Path:** `/living-topology/axiomatic-core/07-macroscopic-synchronization/generative-collapse.md`
+**Path:** `/living-topology/axiomatic-core/07-macroscopic-coherence/generative-collapse.md`
 
 ### The Teleological Alignment
 
