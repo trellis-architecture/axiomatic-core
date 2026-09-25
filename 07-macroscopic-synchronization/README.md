@@ -1,6 +1,6 @@
 # Macroscopic Synchronization
 
-**Path:** `/trellis-os/living-topology/axiomatic-core/07-macroscopic-synchronization/README.md`
+**Path:** `/trellis-os/living-topology/axiomatic-core/07-macroscopic-coherence/README.md`
 
 ### The Teleological Alignment
 
