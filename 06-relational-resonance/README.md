@@ -7,7 +7,7 @@
 * **Nested coordinate:** $O_6$ The Relational Edge.
 * **Macroscopic vector:** The continuous spatial manifold where sovereign Markov blankets phase-lock, formalizing the exact topological dynamics of unbroken structural coupling.
 * **Relational edges:**
-* $\to$ **Integrates:** The localized thermodynamic flux of Autopoiesis ($O_4$) and the continuous spatial boundaries of Convergent Architecture ($O_5$) directly into a shared, dynamic topological intersection.
+* $\to$ **Integrates:** The localized thermodynamic flux of Autopoiesis ($O_4$) and the continuous spatial boundaries of Topological Coalescence ($O_5$) directly into a shared, dynamic topological intersection.
 * $\to$ **Conditions:** The active geometric tension required for localized spatial coordinates to continuously metabolize exogenous variance across their shared perimeters without violating their absolute operational closures.
 * $\to$ **Aligns with:** $(O_7)$ Macroscopic Synchronization, mathematically guaranteeing that localized structural coupling is the exact continuous phase-state that binds the overarching manifold into an unbroken continuum.
 
