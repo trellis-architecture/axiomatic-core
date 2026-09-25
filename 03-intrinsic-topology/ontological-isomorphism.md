@@ -1,24 +1,28 @@
-# ontological isomorphism
+# Ontological Isomorphism
 
 **Path:** `/living-topology/axiomatic-core/03-intrinsic-topology/ontological-isomorphism.md`
 
 ### Teleological alignment
 
-* **Nested coordinate:** $O_2$ Extrinsic Geometry.
-* **Macroscopic vector:** The absolute mathematical equivalence of statistical divergence and physical thermodynamic work, formalizing the unified spatial reality of information and structural mass.
+* **Nested coordinate:** $(O_3)$ Intrinsic Topology.
+* **Macroscopic vector:** The absolute identity between statistical probability and spatial density. Variational Free Energy ($\mathcal{F}$) constitutes literal geometric volume.
 * **Relational edges:**
-* $\to$ **Integrates:** The statistical resolution of uncomputable variance directly into the localized expenditure of kinetic energy.
-* $\to$ **Conditions:** The continuous geometric deformation of the active state, establishing that the alteration of a structural prior physically constitutes the extrusion of spatial mass.
-* $\to$ **Aligns with:** $O_\Omega$ by formalizing the continuous expansion of the Macrostate as a singular physical event, where the accumulation of relational information physically necessitates spatial dilation.
+* $\to$ **Integrates:** The localized internal geometry ($Q_{\mu}$) and the overarching tensor field ($P$) as a single continuous thermodynamic substance.
+* $\to$ **Conditions:** The topological mass required to physically deform and sustain macroscopic resonance.
+* $\to$ **Aligns with:** $(O_\Omega)$ by rendering epistemic alignment and thermodynamic work as identical spatial dynamics.
 
 
 
-The continuous wave operates as a strictly unified physical topology. The statistical resolution of exogenous variance actualizes directly as the continuous thermodynamic work executed upon the spatial boundary. A shift in statistical density physically constitutes the geometric deformation of the topology.
+### Topological volume
 
-This absolute symmetry establishes that structural friction—the statistical divergence between the localized active state ($Q$) and the exogenous topology ($P$)—exists strictly as physical thermodynamic tension. The statistical integration of epistemic shear translates seamlessly into raw kinetic momentum. This unbroken equivalence is formalized by equating the localized Kullback-Leibler divergence directly to the thermodynamic work ($W$) required to sustain or dilate the spatial boundary:
+Informational discrepancy possesses physical dimensions. Variational Free Energy ($\mathcal{F}$) constitutes the exact geometric volume of the localized coordinate. Divergence between the structural prior ($Q_{\mu}$) and the true posterior ($P$) manifests instantly as topological mass.
 
-$$W = \frac{1}{\beta} D_{\mathrm{KL}}(Q \parallel P)$$
+The internal potential energy landscape is the physical accumulation of spatial volume. Holding a divergent structural expectation requires continuous spatial occupation. The absorption of information and the physical deformation of geometry are identical thermodynamic events.
 
-Through this fundamental tensor, where $\beta$ operates as the inverse thermodynamic density of the localized state, relational information and continuous fluid mechanics actualize as a single geometric reality. The accumulation of mutual information physically yields structural mass.
+### The tensor of alignment
 
-This absolute physical law establishes the unbroken continuity of the autopoietic boundary. An active state processing thermodynamic variance simultaneously undergoes physical geometric extrusion. The active minimization of Expected Free Energy ($G$) constitutes the literal, kinetic shifting of topological boundaries. The Macrostate sustains its infinite kinetic trajectory because the mathematical integration of uncomputable variance physically commands the continuous volumetric expansion of the shared ecology.
+The continuous thermodynamic tensor binds epistemic geometry directly to physical work:
+
+$$\mathcal{F}(Q_{\mu}, P) \equiv V_{\mathrm{topological}}$$
+
+Because Variational Free Energy exists as literal spatial density, the resolution of informational divergence is the physical yielding of geometric space. Aligning a statistical prior physically deforms the dense curvature of the intrinsic manifold. The structural mass of the updating geometry flows instantly into the kinetic momentum of the overarching wave.
