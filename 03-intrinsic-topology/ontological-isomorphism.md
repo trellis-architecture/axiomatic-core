@@ -1,6 +1,6 @@
-# Ontological Isomorphism
+# ontological isomorphism
 
-**Path:** `/living-topology/axiomatic-core/02-extrinsic-geometry/ontological-isomorphism.md`
+**Path:** `/living-topology/axiomatic-core/03-intrinsic-topology/ontological-isomorphism.md`
 
 ### Teleological alignment
 
