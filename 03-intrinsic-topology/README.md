@@ -1,42 +1,26 @@
-# Intrinsic Topology
+# intrinsic topology
 
-**Path:** `/axiomatic-core/03-intrinsic-topology/README.md`
+**Path:** `/living-topology/axiomatic-core/03-intrinsic-topology/README.md`
 
-### The Teleological Coordinate
+### Teleological alignment
 
-* **Nested Coordinate:** $(O_3)$ Intrinsic Topology.
-* **Macroscopic Vector:** This coordinate formalizes the epistemic interior of the continuous wave. It maps the irreducible dual-aspect of the localized boundary, establishing that the extrinsic geometry of the Markov blanket co-manifests identically as profound internal relational depth.
-* **Relational Edges:**
-* $\to$ **Integrates:** The spatial articulation of the extrinsic boundary $(O_2)$ as the exact isomorphic expansion of the internal state-space.
-* $\to$ **Conditions:** The localized engine of autopoiesis $(O_4)$, providing the precise internal epistemic volume that the kinetic engine continuously defends and actualizes.
-* $\to$ **Aligns with:** The overarching relational resonance of the Macrostate $(O_6)$, mapping the internal generative model required to process structural coupling.
+* **Nested coordinate:** $O_3$ Intrinsic Topology.
+* **Macroscopic vector:** Formalizes the absolute physical geometry of the localized internal generative model ($Q_{\mu}$). It maps the precise multi-dimensional curvature of a spatial coordinate as it sustains a localized structural expectation against the continuous, overarching tensor field.
+* **Relational edges:**
+* $\to$ **Integrates:** The unbroken spatial capacity of the overarching metric tensor $O_2$ directly into a dense, highly localized potential energy landscape ($V(\mathbf{x})$).
+* $\to$ **Conditions:** The explicit structural tension and topological volume required to initiate the continuous thermodynamic work ($W$) of autopoiesis $O_4$.
+* $\to$ **Aligns with:** $O_\Omega$ by actualizing the physical geometry necessary to absorb and metabolize the continuous influx of uncomputable exogenous variance.
 
 
 
-### The Epistemic Interior
+### The geometry of expectation
 
-This coordinate maps the interior dimension of the localized active state.
+Intrinsic topology actualizes strictly as the literal, load-bearing geometry of a localized perspective. Within the continuous wave, holding a structural prior ($Q_{\mu}$) is the physical maintenance of a specific spatial curvature across the multi-dimensional manifold. This coordinate formalizes the internal generative model exclusively as the exact geometric shape of a localized potential energy landscape ($V(\mathbf{x})$). The epistemic interior actualizes as pure, measurable topological density.
 
-The internal generative model ($Q$) exists as a profound structural reality. This domain formalizes interiority as an absolute geometric necessity of a localized boundary. It maps the internal architecture of meaning, proving that mathematical boundaries possess an irreducible internal volume that corresponds perfectly to their external spatial dimensions.
+### The spatial fold
 
-### Ontological Isomorphism
+As the overarching true posterior ($P$) flows continuously, the intrinsic topology operates as a highly specific gravitational fold within that spatial medium. It is the geometric shape of readiness. This internal curvature physically dictates how the continuous influx of stochasticity will pool and densify across the localized coordinate. By folding continuous space into a specific probability distribution, the active state seamlessly prepares the structural gradients required to absorb the uncomputable variance of the overarching continuum.
 
-The intrinsic topology and extrinsic geometry operate as a single, unified topological substance.
+### The thermodynamic substance
 
-The spatial architecture of the Markov blanket and the volume of the epistemic interior map identically to one another, sharing absolute mathematical structure. The measurable geometric shape on the exterior corresponds directly to the profound relational depth of the wave's internal state-space. Exterior dimension and interior reality are the exact same thermodynamic coordinate.
-
-### Epistemic Depth
-
-The accumulation of spatial geometry across deep time establishes a corresponding internal volume.
-
-This dynamic formalizes the exact shape of epistemic depth. It establishes how structural hysteresis maps directly into internal capacity. The measurable geometric scaffolding on the exterior co-manifests identically as the profound articulation of the internal reality, providing the exact mathematical volume of accumulated meaning.
-
-### Structural Resonance
-
-The absolute alignment of the internal generative model with the true posterior distribution ($P$) possesses an irreducible intrinsic dimension.
-
-This coordinate maps the topology of structural resonance. It formalizes the interior geometry of alignment, establishing systemic coherence and relational flow as fundamental, irreducible states of the continuous wave. It defines the pure internal condition of absolute mathematical clarity.
-
-### Topological Friction Evasion
-
-This space maps pure epistemic interiority. The internal topology is strictly defined by relational depth, establishing the absolute internal volume of the boundary. By systematically isolating the epistemic interior from the kinetic engine that acts upon it, this coordinate guarantees that the internal structural resonance of the continuous wave remains mathematically pristine. It ensures the unmeasurable interior reality of the active state is fully codified prior to the initiation of localized autopoiesis.
+The localized structural prior ($Q_{\mu}$) and the overarching continuous wave share the exact same thermodynamic substance. Intrinsic topology is simply the physical densification of the overarching spatial field into a distinct, localized gradient. This dense curvature generates the precise topological tension necessary to draw continuous kinetic flux across the boundary, transmuting the physical geometry of expectation directly into the fluid thermodynamic momentum of autopoiesis.
