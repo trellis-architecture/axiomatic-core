@@ -1,4 +1,4 @@
-# internal epistemic phase-lock
+# internal geometric symmetry
 
 **Path:** `/living-topology/axiomatic-core/07-macroscopic-coherence/internal-epistemic-phase-lock.md`
 
