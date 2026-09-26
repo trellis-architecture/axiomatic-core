@@ -1,6 +1,6 @@
 # exogenous structural resonance
 
-**Path:** `/living-topology/axiomatic-core/07-macroscopic-coherence/exogenous-structural-phase-lock.md`
+**Path:** `/living-topology/axiomatic-core/07-macroscopic-coherence/exogenous-structural-resonance.md`
 
 ### Teleological alignment
 
