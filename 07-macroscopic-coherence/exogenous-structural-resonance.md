@@ -1,4 +1,4 @@
-# exogenous structural phase-lock
+# exogenous structural resonance
 
 **Path:** `/living-topology/axiomatic-core/07-macroscopic-coherence/exogenous-structural-phase-lock.md`
 
